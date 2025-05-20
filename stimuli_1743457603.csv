@@ -1,0 +1,908 @@
+Stimulus_ID,Angle,Proximity,n_candidates,Candidates,Actor,path,label,annotator,list_id
+0,front,1,2,water+coffee,X,bottle_coffee_X/1/front/IMG_9963.JPG,water,Zory,7
+1,front,1,2,water+coffee,X,bottle_coffee_X/1/front/IMG_9964.JPG,water,Zory,3
+2,front,1,2,water+coffee,X,bottle_coffee_X/1/front/IMG_9965.JPG,coffee,Zory,9
+3,front,1,2,water+coffee,X,bottle_coffee_X/1/front/IMG_9966.JPG,coffee,Zory,3
+4,left,1,2,water+coffee,X,bottle_coffee_X/1/left/IMG_9959.JPG,water,Zory,14
+5,left,1,2,water+coffee,X,bottle_coffee_X/1/left/IMG_9960.JPG,water,Zory,6
+6,left,1,2,water+coffee,X,bottle_coffee_X/1/left/IMG_9961.JPG,coffee,Zory,17
+7,left,1,2,water+coffee,X,bottle_coffee_X/1/left/IMG_9962.JPG,coffee,Zory,3
+8,right,1,2,water+coffee,X,bottle_coffee_X/1/right/IMG_9967.JPG,water,Zory,5
+9,right,1,2,water+coffee,X,bottle_coffee_X/1/right/IMG_9968.JPG,water,Zory,9
+10,right,1,2,water+coffee,X,bottle_coffee_X/1/right/IMG_9969.JPG,coffee,Zory,4
+11,right,1,2,water+coffee,X,bottle_coffee_X/1/right/IMG_9970.JPG,coffee,Zory,0
+12,front,2,2,water+coffee,X,bottle_coffee_X/2/front/bottle0.JPG,water,Zory,10
+13,front,2,2,water+coffee,X,bottle_coffee_X/2/front/bottle1.JPG,water,Zory,13
+14,front,2,2,water+coffee,X,bottle_coffee_X/2/front/coffee0.JPG,coffee,Zory,16
+15,front,2,2,water+coffee,X,bottle_coffee_X/2/front/coffee1.JPG,coffee,Zory,1
+16,front,2,2,water+coffee,X,bottle_coffee_X/2/front/coffee2.JPG,coffee,Zory,16
+17,left,2,2,water+coffee,X,bottle_coffee_X/2/left/IMG_9971.JPG,water,Zory,0
+18,left,2,2,water+coffee,X,bottle_coffee_X/2/left/IMG_9972.JPG,water,Zory,18
+19,left,2,2,water+coffee,X,bottle_coffee_X/2/left/IMG_9973.JPG,coffee,Zory,10
+20,left,2,2,water+coffee,X,bottle_coffee_X/2/left/IMG_9974.JPG,coffee,Zory,8
+21,right,2,2,water+coffee,X,bottle_coffee_X/2/right/IMG_9980.JPG,water,Zory,17
+22,right,2,2,water+coffee,X,bottle_coffee_X/2/right/IMG_9981.JPG,water,Zory,12
+23,right,2,2,water+coffee,X,bottle_coffee_X/2/right/IMG_9982.JPG,coffee,Zory,17
+24,right,2,2,water+coffee,X,bottle_coffee_X/2/right/IMG_9983.JPG,coffee,Zory,18
+25,front,3,2,water+coffee,X,bottle_coffee_X/3/front/bottle0.JPG,water,Zory,1
+26,front,3,2,water+coffee,X,bottle_coffee_X/3/front/bottle1.JPG,water,Zory,12
+27,front,3,2,water+coffee,X,bottle_coffee_X/3/front/coffee0.JPG,coffee,Zory,12
+28,front,3,2,water+coffee,X,bottle_coffee_X/3/front/coffee1.JPG,coffee,Zory,0
+29,left,3,2,water+coffee,X,bottle_coffee_X/3/left/bottle0.JPG,water,Zory,16
+30,left,3,2,water+coffee,X,bottle_coffee_X/3/left/bottle1.JPG,water,Zory,10
+31,left,3,2,water+coffee,X,bottle_coffee_X/3/left/coffee0.JPG,coffee,Zory,11
+32,left,3,2,water+coffee,X,bottle_coffee_X/3/left/coffee1.JPG,coffee,Zory,11
+33,right,3,2,water+coffee,X,bottle_coffee_X/3/right/IMG_9992.JPG,water,Zory,2
+34,right,3,2,water+coffee,X,bottle_coffee_X/3/right/IMG_9993.JPG,water,Zory,8
+35,right,3,2,water+coffee,X,bottle_coffee_X/3/right/IMG_9994.JPG,coffee,Zory,1
+36,right,3,2,water+coffee,X,bottle_coffee_X/3/right/IMG_9995.JPG,coffee,Zory,10
+37,front,1,2,coffee+remote,X,coffee_remote_X/1/front/IMG_0001.JPG,coffee,Zory,12
+38,front,1,2,coffee+remote,X,coffee_remote_X/1/front/IMG_0002.JPG,coffee,Zory,15
+39,front,1,2,coffee+remote,X,coffee_remote_X/1/front/IMG_0003.JPG,remote,Zory,17
+40,front,1,2,coffee+remote,X,coffee_remote_X/1/front/IMG_0004.JPG,remote,Zory,11
+41,left,1,2,coffee+remote,X,coffee_remote_X/1/left/IMG_9996.JPG,coffee,Zory,6
+42,left,1,2,coffee+remote,X,coffee_remote_X/1/left/IMG_9997.JPG,coffee,Zory,18
+43,left,1,2,coffee+remote,X,coffee_remote_X/1/left/IMG_9998.JPG,remote,Zory,13
+44,left,1,2,coffee+remote,X,coffee_remote_X/1/left/IMG_9999.JPG,remote,Zory,1
+45,right,1,2,coffee+remote,X,coffee_remote_X/1/right/IMG_0005.JPG,coffee,Zory,15
+46,right,1,2,coffee+remote,X,coffee_remote_X/1/right/IMG_0006.JPG,coffee,Zory,4
+47,right,1,2,coffee+remote,X,coffee_remote_X/1/right/IMG_0007.JPG,remote,Zory,5
+48,right,1,2,coffee+remote,X,coffee_remote_X/1/right/IMG_0008.JPG,remote,Zory,13
+49,front,2,2,coffee+remote,X,coffee_remote_X/2/front/IMG_0013.JPG,coffee,Zory,3
+50,front,2,2,coffee+remote,X,coffee_remote_X/2/front/IMG_0014.JPG,coffee,Zory,18
+51,front,2,2,coffee+remote,X,coffee_remote_X/2/front/IMG_0015.JPG,remote,Zory,4
+52,front,2,2,coffee+remote,X,coffee_remote_X/2/front/IMG_0016.JPG,remote,Zory,5
+53,left,2,2,coffee+remote,X,coffee_remote_X/2/left/IMG_0009.JPG,coffee,Zory,7
+54,left,2,2,coffee+remote,X,coffee_remote_X/2/left/IMG_0010.JPG,coffee,Zory,4
+55,left,2,2,coffee+remote,X,coffee_remote_X/2/left/IMG_0011.JPG,remote,Zory,0
+56,left,2,2,coffee+remote,X,coffee_remote_X/2/left/IMG_0012.JPG,remote,Zory,19
+57,right,2,2,coffee+remote,X,coffee_remote_X/2/right/IMG_0017.JPG,coffee,Zory,16
+58,right,2,2,coffee+remote,X,coffee_remote_X/2/right/IMG_0018.JPG,coffee,Zory,9
+59,right,2,2,coffee+remote,X,coffee_remote_X/2/right/IMG_0019.JPG,remote,Zory,11
+60,right,2,2,coffee+remote,X,coffee_remote_X/2/right/IMG_0020.JPG,remote,Zory,4
+61,front,3,2,coffee+remote,X,coffee_remote_X/3/front/IMG_0025.JPG,coffee,Zory,3
+62,front,3,2,coffee+remote,X,coffee_remote_X/3/front/IMG_0026.JPG,coffee,Zory,8
+63,front,3,2,coffee+remote,X,coffee_remote_X/3/front/IMG_0027.JPG,remote,Zory,4
+64,front,3,2,coffee+remote,X,coffee_remote_X/3/front/IMG_0028.JPG,remote,Zory,-1
+65,left,3,2,coffee+remote,X,coffee_remote_X/3/left/IMG_0021.JPG,coffee,Zory,19
+66,left,3,2,coffee+remote,X,coffee_remote_X/3/left/IMG_0022.JPG,coffee,Zory,11
+67,left,3,2,coffee+remote,X,coffee_remote_X/3/left/IMG_0023.JPG,remote,Zory,3
+68,left,3,2,coffee+remote,X,coffee_remote_X/3/left/IMG_0024.JPG,remote,Zory,-1
+69,right,3,2,coffee+remote,X,coffee_remote_X/3/right/IMG_0029.JPG,coffee,Zory,7
+70,right,3,2,coffee+remote,X,coffee_remote_X/3/right/IMG_0030.JPG,coffee,Zory,5
+71,right,3,2,coffee+remote,X,coffee_remote_X/3/right/IMG_0031.JPG,remote,Zory,3
+72,right,3,2,coffee+remote,X,coffee_remote_X/3/right/IMG_0032.JPG,remote,Zory,9
+73,front,1,2,doll+water,X,doll_bottle_X/1/front/bottle_0075.JPG,water,Zory,17
+74,front,1,2,doll+water,X,doll_bottle_X/1/front/bottle_0076.JPG,water,Zory,19
+75,front,1,2,doll+water,X,doll_bottle_X/1/front/bottle_0077.JPG,water,Zory,2
+76,front,1,2,doll+water,X,doll_bottle_X/1/front/doll_0073.JPG,doll,Zory,14
+77,front,1,2,doll+water,X,doll_bottle_X/1/front/doll_0074.JPG,doll,Zory,16
+78,left,1,2,doll+water,X,doll_bottle_X/1/left/IMG_0069.JPG,doll,Zory,0
+79,left,1,2,doll+water,X,doll_bottle_X/1/left/IMG_0070.JPG,doll,Zory,12
+80,left,1,2,doll+water,X,doll_bottle_X/1/left/IMG_0071.JPG,water,Zory,13
+81,left,1,2,doll+water,X,doll_bottle_X/1/left/IMG_0072.JPG,water,Zory,11
+82,right,1,2,doll+water,X,doll_bottle_X/1/right/IMG_0078.JPG,doll,Zory,6
+83,right,1,2,doll+water,X,doll_bottle_X/1/right/IMG_0079.JPG,doll,Zory,5
+84,right,1,2,doll+water,X,doll_bottle_X/1/right/IMG_0080.JPG,water,Zory,1
+85,right,1,2,doll+water,X,doll_bottle_X/1/right/IMG_0081.JPG,water,Zory,12
+86,front,2,2,doll+water,X,doll_bottle_X/2/front/IMG_0086.JPG,doll,Zory,13
+87,front,2,2,doll+water,X,doll_bottle_X/2/front/IMG_0087.JPG,doll,Zory,2
+88,front,2,2,doll+water,X,doll_bottle_X/2/front/IMG_0088.JPG,water,Zory,4
+89,front,2,2,doll+water,X,doll_bottle_X/2/front/IMG_0089.JPG,water,Zory,14
+90,left,2,2,doll+water,X,doll_bottle_X/2/left/IMG_0082.JPG,doll,Zory,2
+91,left,2,2,doll+water,X,doll_bottle_X/2/left/IMG_0083.JPG,doll,Zory,16
+92,left,2,2,doll+water,X,doll_bottle_X/2/left/IMG_0084.JPG,water,Zory,3
+93,left,2,2,doll+water,X,doll_bottle_X/2/left/IMG_0085.JPG,water,Zory,0
+94,right,2,2,doll+water,X,doll_bottle_X/2/right/IMG_0090.JPG,doll,Zory,3
+95,right,2,2,doll+water,X,doll_bottle_X/2/right/IMG_0091.JPG,doll,Zory,16
+96,right,2,2,doll+water,X,doll_bottle_X/2/right/IMG_0092.JPG,water,Zory,10
+97,right,2,2,doll+water,X,doll_bottle_X/2/right/IMG_0093.JPG,water,Zory,11
+98,front,3,2,doll+water,X,doll_bottle_X/3/front/IMG_0098.JPG,doll,Zory,-1
+99,front,3,2,doll+water,X,doll_bottle_X/3/front/IMG_0099.JPG,doll,Zory,6
+100,front,3,2,doll+water,X,doll_bottle_X/3/front/IMG_0100.JPG,water,Zory,18
+101,front,3,2,doll+water,X,doll_bottle_X/3/front/IMG_0101.JPG,water,Zory,18
+102,left,3,2,doll+water,X,doll_bottle_X/3/left/IMG_0094.JPG,doll,Zory,5
+103,left,3,2,doll+water,X,doll_bottle_X/3/left/IMG_0095.JPG,doll,Zory,4
+104,left,3,2,doll+water,X,doll_bottle_X/3/left/IMG_0096.JPG,water,Zory,2
+105,left,3,2,doll+water,X,doll_bottle_X/3/left/IMG_0097.JPG,water,Zory,6
+106,right,3,2,doll+water,X,doll_bottle_X/3/right/IMG_0102.JPG,doll,Zory,15
+107,right,3,2,doll+water,X,doll_bottle_X/3/right/IMG_0103.JPG,doll,Zory,19
+108,right,3,2,doll+water,X,doll_bottle_X/3/right/IMG_0104.JPG,water,Zory,19
+109,right,3,2,doll+water,X,doll_bottle_X/3/right/IMG_0105.JPG,water,Zory,11
+110,front,1,2,doll+coffee,Y,doll_coffee_Y/1/front/IMG_0401.jpeg,doll,Zory,7
+111,front,1,2,doll+coffee,Y,doll_coffee_Y/1/front/IMG_0402.jpeg,doll,Zory,4
+112,front,1,2,doll+coffee,Y,doll_coffee_Y/1/front/IMG_0403.jpeg,doll,Zory,0
+113,front,1,2,doll+coffee,Y,doll_coffee_Y/1/front/IMG_0404.jpeg,doll,Zory,3
+114,front,1,2,doll+coffee,Y,doll_coffee_Y/1/front/IMG_0405.jpeg,coffee,Zory,18
+115,front,1,2,doll+coffee,Y,doll_coffee_Y/1/front/IMG_0406.jpeg,coffee,Zory,13
+116,front,1,2,doll+coffee,Y,doll_coffee_Y/1/front/IMG_0407.jpeg,coffee,Zory,5
+117,front,1,2,doll+coffee,Y,doll_coffee_Y/1/front/IMG_0408.jpeg,coffee,Zory,15
+118,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/coffee_0374.jpeg,coffee,Zory,15
+119,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/coffee_0375.jpeg,coffee,Zory,6
+120,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/coffee_0376.jpeg,coffee,Zory,2
+121,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/coffee_0384.jpeg,coffee,Zory,7
+122,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/coffee_0385.jpeg,coffee,Zory,8
+123,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/coffee_0386.jpeg,coffee,Zory,15
+124,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/doll_0377.jpeg,doll,Zory,5
+125,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/doll_0378.jpeg,doll,Zory,3
+126,left,1,2,doll+coffee,Y,doll_coffee_Y/1/left/doll_0379.jpeg,doll,Zory,5
+127,right,1,2,doll+coffee,Y,doll_coffee_Y/1/right/IMG_0421.jpeg,doll,Zory,15
+128,right,1,2,doll+coffee,Y,doll_coffee_Y/1/right/IMG_0422.jpeg,doll,Zory,13
+129,right,1,2,doll+coffee,Y,doll_coffee_Y/1/right/IMG_0423.jpeg,doll,Zory,4
+130,right,1,2,doll+coffee,Y,doll_coffee_Y/1/right/IMG_0424.jpeg,coffee,Zory,9
+131,right,1,2,doll+coffee,Y,doll_coffee_Y/1/right/IMG_0425.jpeg,coffee,Zory,3
+132,right,1,2,doll+coffee,Y,doll_coffee_Y/1/right/IMG_0426.jpeg,coffee,Zory,8
+133,front,2,2,doll+coffee,Y,doll_coffee_Y/2/front/IMG_0409.jpeg,doll,Zory,8
+134,front,2,2,doll+coffee,Y,doll_coffee_Y/2/front/IMG_0410.jpeg,doll,Zory,9
+135,front,2,2,doll+coffee,Y,doll_coffee_Y/2/front/IMG_0411.jpeg,doll,Zory,0
+136,front,2,2,doll+coffee,Y,doll_coffee_Y/2/front/IMG_0412.jpeg,coffee,Zory,7
+137,front,2,2,doll+coffee,Y,doll_coffee_Y/2/front/IMG_0413.jpeg,coffee,Zory,8
+138,front,2,2,doll+coffee,Y,doll_coffee_Y/2/front/IMG_0414.jpeg,coffee,Zory,0
+139,left,2,2,doll+coffee,Y,doll_coffee_Y/2/left/coffee_0390.jpeg,coffee,Zory,14
+140,left,2,2,doll+coffee,Y,doll_coffee_Y/2/left/coffee_0391.jpeg,coffee,Zory,3
+141,left,2,2,doll+coffee,Y,doll_coffee_Y/2/left/coffee_0392.jpeg,coffee,Zory,0
+142,left,2,2,doll+coffee,Y,doll_coffee_Y/2/left/doll_0388.jpeg,doll,Zory,1
+143,left,2,2,doll+coffee,Y,doll_coffee_Y/2/left/doll_0389.jpeg,doll,Zory,14
+144,right,2,2,doll+coffee,Y,doll_coffee_Y/2/right/coffee_0429.jpeg,coffee,Zory,10
+145,right,2,2,doll+coffee,Y,doll_coffee_Y/2/right/coffee_0430.jpeg,coffee,Zory,19
+146,right,2,2,doll+coffee,Y,doll_coffee_Y/2/right/coffee_0431.jpeg,coffee,Zory,13
+147,right,2,2,doll+coffee,Y,doll_coffee_Y/2/right/doll_0427.jpeg,doll,Zory,17
+148,right,2,2,doll+coffee,Y,doll_coffee_Y/2/right/doll_0428.jpeg,doll,Zory,4
+149,front,3,2,doll+coffee,Y,doll_coffee_Y/3/front/IMG_0415.jpeg,doll,Zory,13
+150,front,3,2,doll+coffee,Y,doll_coffee_Y/3/front/IMG_0416.jpeg,doll,Zory,4
+151,front,3,2,doll+coffee,Y,doll_coffee_Y/3/front/IMG_0417.jpeg,doll,Zory,8
+152,front,3,2,doll+coffee,Y,doll_coffee_Y/3/front/IMG_0418.jpeg,coffee,Zory,18
+153,front,3,2,doll+coffee,Y,doll_coffee_Y/3/front/IMG_0419.jpeg,coffee,Zory,17
+154,front,3,2,doll+coffee,Y,doll_coffee_Y/3/front/IMG_0420.jpeg,coffee,Zory,4
+155,left,3,2,doll+coffee,Y,doll_coffee_Y/3/left/coffee_0397.jpeg,coffee,Zory,-1
+156,left,3,2,doll+coffee,Y,doll_coffee_Y/3/left/coffee_0398.jpeg,coffee,Zory,9
+157,left,3,2,doll+coffee,Y,doll_coffee_Y/3/left/coffee_0399.jpeg,coffee,Zory,19
+158,left,3,2,doll+coffee,Y,doll_coffee_Y/3/left/coffee_0400.jpeg,coffee,Zory,13
+159,left,3,2,doll+coffee,Y,doll_coffee_Y/3/left/doll_0393.jpeg,doll,Zory,4
+160,left,3,2,doll+coffee,Y,doll_coffee_Y/3/left/doll_0395.jpeg,doll,Zory,0
+161,left,3,2,doll+coffee,Y,doll_coffee_Y/3/left/doll_0396.jpeg,doll,Zory,13
+162,right,3,2,doll+coffee,Y,doll_coffee_Y/3/right/IMG_0432.jpeg,doll,Zory,16
+163,right,3,2,doll+coffee,Y,doll_coffee_Y/3/right/IMG_0433.jpeg,doll,Zory,3
+164,right,3,2,doll+coffee,Y,doll_coffee_Y/3/right/IMG_0434.jpeg,doll,Zory,18
+165,right,3,2,doll+coffee,Y,doll_coffee_Y/3/right/IMG_0435.jpeg,coffee,Zory,7
+166,right,3,2,doll+coffee,Y,doll_coffee_Y/3/right/IMG_0436.jpeg,coffee,Zory,10
+167,right,3,2,doll+coffee,Y,doll_coffee_Y/3/right/IMG_0437.jpeg,coffee,Zory,13
+168,front,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/front/IMG_1270.jpeg,doll,Pinyuan,11
+169,front,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/front/IMG_1271.jpeg,doll,Pinyuan,16
+170,front,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/front/IMG_1272.jpeg,coffee,Pinyuan,1
+171,front,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/front/IMG_1273.jpeg,coffee,Pinyuan,12
+172,front,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/front/IMG_1274.jpeg,remote,Pinyuan,1
+173,front,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/front/IMG_1275.jpeg,remote,Pinyuan,6
+174,front,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/front/IMG_1276.jpeg,soccer,Pinyuan,6
+175,front,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/front/IMG_1277.jpeg,soccer,Pinyuan,19
+176,left,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/left/IMG_1262.jpeg,doll,Pinyuan,10
+177,left,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/left/IMG_1263.jpeg,doll,Pinyuan,13
+178,left,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/left/IMG_1264.jpeg,coffee,Pinyuan,13
+179,left,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/left/IMG_1265.jpeg,coffee,Pinyuan,0
+180,left,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/left/IMG_1266.jpeg,remote,Pinyuan,19
+181,left,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/left/IMG_1267.jpeg,remote,Pinyuan,4
+182,left,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/left/IMG_1268.jpeg,soccer,Pinyuan,18
+183,left,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/left/IMG_1269.jpeg,soccer,Pinyuan,7
+184,right,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/right/IMG_1278.jpeg,doll,Pinyuan,5
+185,right,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/right/IMG_1279.jpeg,doll,Pinyuan,9
+186,right,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/right/IMG_1280.jpeg,coffee,Pinyuan,9
+187,right,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/right/IMG_1281.jpeg,coffee,Pinyuan,0
+188,right,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/right/IMG_1282.jpeg,remote,Pinyuan,17
+189,right,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/right/IMG_1283.jpeg,remote,Pinyuan,4
+190,right,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/right/IMG_1284.jpeg,soccer,Pinyuan,4
+191,right,1,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/1/right/IMG_1285.jpeg,soccer,Pinyuan,10
+192,front,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/front/IMG_1294.jpeg,doll,Pinyuan,18
+193,front,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/front/IMG_1295.jpeg,doll,Pinyuan,9
+194,front,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/front/IMG_1296.jpeg,coffee,Pinyuan,10
+195,front,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/front/IMG_1297.jpeg,coffee,Pinyuan,1
+196,front,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/front/IMG_1298.jpeg,remote,Pinyuan,8
+197,front,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/front/IMG_1299.jpeg,remote,Pinyuan,4
+198,front,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/front/IMG_1300.jpeg,soccer,Pinyuan,9
+199,front,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/front/IMG_1301.jpeg,soccer,Pinyuan,12
+200,left,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/left/IMG_1286.jpeg,doll,Pinyuan,11
+201,left,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/left/IMG_1287.jpeg,doll,Pinyuan,9
+202,left,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/left/IMG_1288.jpeg,coffee,Pinyuan,9
+203,left,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/left/IMG_1289.jpeg,coffee,Pinyuan,19
+204,left,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/left/IMG_1290.jpeg,remote,Pinyuan,10
+205,left,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/left/IMG_1291.jpeg,remote,Pinyuan,6
+206,left,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/left/IMG_1292.jpeg,soccer,Pinyuan,9
+207,left,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/left/IMG_1293.jpeg,soccer,Pinyuan,1
+208,right,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/right/coffee_1304.jpeg,coffee,Pinyuan,12
+209,right,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/right/coffee_1305.jpeg,coffee,Pinyuan,7
+210,right,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/right/doll_1302.jpeg,doll,Pinyuan,19
+211,right,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/right/remote_1306.jpeg,remote,Pinyuan,2
+212,right,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/right/remote_1307.jpeg,remote,Pinyuan,16
+213,right,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/right/soccer_1308.jpeg,soccer,Pinyuan,5
+214,right,2,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/2/right/soccer_1309.jpeg,soccer,Pinyuan,15
+215,front,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/front/IMG_1318.jpeg,doll,Pinyuan,9
+216,front,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/front/IMG_1319.jpeg,doll,Pinyuan,6
+217,front,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/front/IMG_1320.jpeg,coffee,Pinyuan,2
+218,front,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/front/IMG_1321.jpeg,coffee,Pinyuan,14
+219,front,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/front/IMG_1322.jpeg,remote,Pinyuan,1
+220,front,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/front/IMG_1323.jpeg,remote,Pinyuan,8
+221,front,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/front/IMG_1324.jpeg,soccer,Pinyuan,6
+222,front,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/front/IMG_1325.jpeg,soccer,Pinyuan,8
+223,left,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/left/IMG_1310.jpeg,doll,Pinyuan,17
+224,left,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/left/IMG_1311.jpeg,doll,Pinyuan,3
+225,left,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/left/IMG_1312.jpeg,coffee,Pinyuan,2
+226,left,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/left/IMG_1313.jpeg,coffee,Pinyuan,18
+227,left,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/left/IMG_1314.jpeg,remote,Pinyuan,6
+228,left,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/left/IMG_1315.jpeg,remote,Pinyuan,6
+229,left,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/left/IMG_1316.jpeg,soccer,Pinyuan,12
+230,left,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/left/IMG_1317.jpeg,soccer,Pinyuan,5
+231,right,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/right/IMG_1326.jpeg,doll,Pinyuan,12
+232,right,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/right/IMG_1327.jpeg,doll,Pinyuan,0
+233,right,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/right/IMG_1328.jpeg,coffee,Pinyuan,1
+234,right,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/right/IMG_1329.jpeg,coffee,Pinyuan,16
+235,right,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/right/IMG_1330.jpeg,remote,Pinyuan,5
+236,right,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/right/IMG_1331.jpeg,remote,Pinyuan,5
+237,right,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/right/IMG_1332.jpeg,soccer,Pinyuan,19
+238,right,3,4,doll+coffee+remote+soccer,X,doll_coffee_remote_soccer_X/3/right/IMG_1333.jpeg,soccer,Pinyuan,5
+239,front,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/front/IMG_1160.jpeg,doll,Pinyuan,5
+240,front,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/front/IMG_1161.jpeg,doll,Pinyuan,15
+241,front,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/front/IMG_1162.jpeg,remote,Pinyuan,15
+242,front,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/front/IMG_1163.jpeg,remote,Pinyuan,8
+243,front,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/front/IMG_1164.jpeg,coffee,Pinyuan,1
+244,front,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/front/IMG_1165.jpeg,coffee,Pinyuan,15
+245,left,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/left/IMG_1154.jpeg,doll,Pinyuan,2
+246,left,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/left/IMG_1155.jpeg,doll,Pinyuan,15
+247,left,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/left/IMG_1156.jpeg,remote,Pinyuan,7
+248,left,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/left/IMG_1157.jpeg,remote,Pinyuan,4
+249,left,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/left/IMG_1158.jpeg,coffee,Pinyuan,14
+250,left,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/left/IMG_1159.jpeg,coffee,Pinyuan,18
+251,right,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/right/IMG_1166.jpeg,doll,Pinyuan,3
+252,right,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/right/IMG_1167.jpeg,doll,Pinyuan,0
+253,right,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/right/IMG_1168.jpeg,remote,Pinyuan,18
+254,right,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/right/IMG_1169.jpeg,remote,Pinyuan,9
+255,right,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/right/IMG_1170.jpeg,coffee,Pinyuan,10
+256,right,1,3,doll+remote+coffee,X,doll_remote_coffee_X/1/right/IMG_1171.jpeg,coffee,Pinyuan,8
+257,front,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/front/IMG_1178.jpeg,doll,Pinyuan,0
+258,front,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/front/IMG_1179.jpeg,doll,Pinyuan,0
+259,front,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/front/IMG_1180.jpeg,remote,Pinyuan,6
+260,front,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/front/IMG_1181.jpeg,remote,Pinyuan,12
+261,front,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/front/IMG_1182.jpeg,coffee,Pinyuan,13
+262,front,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/front/IMG_1183.jpeg,coffee,Pinyuan,0
+263,left,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/left/IMG_1172.jpeg,doll,Pinyuan,19
+264,left,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/left/IMG_1173.jpeg,doll,Pinyuan,15
+265,left,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/left/IMG_1174.jpeg,remote,Pinyuan,14
+266,left,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/left/IMG_1175.jpeg,remote,Pinyuan,6
+267,left,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/left/IMG_1176.jpeg,coffee,Pinyuan,14
+268,left,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/left/IMG_1177.jpeg,coffee,Pinyuan,4
+269,right,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/right/IMG_1184.jpeg,doll,Pinyuan,6
+270,right,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/right/IMG_1185.jpeg,doll,Pinyuan,16
+271,right,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/right/IMG_1186.jpeg,remote,Pinyuan,10
+272,right,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/right/IMG_1187.jpeg,remote,Pinyuan,10
+273,right,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/right/IMG_1188.jpeg,coffee,Pinyuan,0
+274,right,2,3,doll+remote+coffee,X,doll_remote_coffee_X/2/right/IMG_1189.jpeg,coffee,Pinyuan,18
+275,front,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/front/coffee_1200.jpeg,coffee,Pinyuan,12
+276,front,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/front/coffee_1201.jpeg,coffee,Pinyuan,5
+277,front,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/front/doll_1197.jpeg,doll,Pinyuan,15
+278,front,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/front/remote_1196.jpeg,remote,Pinyuan,19
+279,front,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/front/remote_1198.jpeg,remote,Pinyuan,19
+280,front,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/front/remote_1199.jpeg,remote,Pinyuan,15
+281,left,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/left/coffee_1195.jpeg,coffee,Pinyuan,17
+282,left,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/left/doll_1190.jpeg,doll,Pinyuan,3
+283,left,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/left/doll_1191.jpeg,doll,Pinyuan,2
+284,left,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/left/remote_1192.jpeg,remote,Pinyuan,18
+285,left,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/left/remote_1193.jpeg,remote,Pinyuan,13
+286,left,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/left/remote_1194.jpeg,remote,Pinyuan,5
+287,right,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/right/IMG_1202.jpeg,doll,Pinyuan,18
+288,right,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/right/IMG_1203.jpeg,doll,Pinyuan,12
+289,right,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/right/IMG_1204.jpeg,remote,Pinyuan,7
+290,right,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/right/IMG_1205.jpeg,remote,Pinyuan,12
+291,right,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/right/IMG_1206.jpeg,coffee,Pinyuan,0
+292,right,3,3,doll+remote+coffee,X,doll_remote_coffee_X/3/right/IMG_1207.jpeg,coffee,Pinyuan,7
+293,front,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/front/IMG_1214.jpeg,doll,Pinyuan,10
+294,front,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/front/IMG_1215.jpeg,doll,Pinyuan,15
+295,front,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/front/IMG_1216.jpeg,remote,Pinyuan,9
+296,front,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/front/IMG_1217.jpeg,remote,Pinyuan,19
+297,front,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/front/IMG_1218.jpeg,soccer,Pinyuan,7
+298,front,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/front/IMG_1219.jpeg,soccer,Pinyuan,8
+299,left,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/left/doll_1208.jpeg,doll,Pinyuan,6
+300,left,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/left/doll_1209.jpeg,doll,Pinyuan,2
+301,left,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/left/remote_1210.jpeg,remote,Pinyuan,12
+302,left,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/left/remote_1212.jpeg,remote,Pinyuan,1
+303,left,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/left/soccer_1213.jpeg,soccer,Pinyuan,8
+304,right,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/right/IMG_1220.jpeg,doll,Pinyuan,1
+305,right,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/right/IMG_1221.jpeg,doll,Pinyuan,15
+306,right,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/right/IMG_1222.jpeg,remote,Pinyuan,2
+307,right,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/right/IMG_1223.jpeg,remote,Pinyuan,19
+308,right,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/right/IMG_1224.jpeg,soccer,Pinyuan,5
+309,right,1,3,doll+remote+soccer,X,doll_remote_soccer_X/1/right/IMG_1225.jpeg,soccer,Pinyuan,13
+310,front,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/front/IMG_1232.jpeg,doll,Pinyuan,3
+311,front,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/front/IMG_1233.jpeg,doll,Pinyuan,13
+312,front,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/front/IMG_1234.jpeg,remote,Pinyuan,11
+313,front,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/front/IMG_1235.jpeg,remote,Pinyuan,2
+314,front,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/front/IMG_1236.jpeg,soccer,Pinyuan,7
+315,front,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/front/IMG_1237.jpeg,soccer,Pinyuan,17
+316,left,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/left/IMG_1226.jpeg,doll,Pinyuan,12
+317,left,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/left/IMG_1227.jpeg,doll,Pinyuan,11
+318,left,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/left/IMG_1228.jpeg,remote,Pinyuan,16
+319,left,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/left/IMG_1229.jpeg,remote,Pinyuan,13
+320,left,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/left/IMG_1230.jpeg,soccer,Pinyuan,0
+321,left,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/left/IMG_1231.jpeg,soccer,Pinyuan,7
+322,right,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/right/IMG_1238.jpeg,doll,Pinyuan,12
+323,right,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/right/IMG_1239.jpeg,doll,Pinyuan,6
+324,right,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/right/IMG_1240.jpeg,remote,Pinyuan,4
+325,right,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/right/IMG_1241.jpeg,remote,Pinyuan,16
+326,right,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/right/IMG_1242.jpeg,soccer,Pinyuan,2
+327,right,2,3,doll+remote+soccer,X,doll_remote_soccer_X/2/right/IMG_1243.jpeg,soccer,Pinyuan,1
+328,front,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/front/IMG_1250.jpeg,doll,Pinyuan,11
+329,front,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/front/IMG_1251.jpeg,doll,Pinyuan,17
+330,front,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/front/IMG_1252.jpeg,remote,Pinyuan,5
+331,front,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/front/IMG_1253.jpeg,remote,Pinyuan,6
+332,front,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/front/IMG_1254.jpeg,soccer,Pinyuan,1
+333,front,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/front/IMG_1255.jpeg,soccer,Pinyuan,2
+334,left,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/left/IMG_1244.jpeg,doll,Pinyuan,11
+335,left,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/left/IMG_1245.jpeg,doll,Pinyuan,12
+336,left,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/left/IMG_1246.jpeg,remote,Pinyuan,13
+337,left,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/left/IMG_1247.jpeg,remote,Pinyuan,15
+338,left,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/left/IMG_1248.jpeg,soccer,Pinyuan,0
+339,left,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/left/IMG_1249.jpeg,soccer,Pinyuan,0
+340,right,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/right/IMG_1256.jpeg,doll,Pinyuan,14
+341,right,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/right/IMG_1257.jpeg,doll,Pinyuan,9
+342,right,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/right/IMG_1258.jpeg,remote,Pinyuan,16
+343,right,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/right/IMG_1259.jpeg,remote,Pinyuan,16
+344,right,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/right/IMG_1260.jpeg,soccer,Pinyuan,6
+345,right,3,3,doll+remote+soccer,X,doll_remote_soccer_X/3/right/IMG_1261.jpeg,soccer,Pinyuan,10
+346,front,1,2,pen+remote,X,pen_remote_X/1/front/pen_0037.JPG,pen,Pinyuan,11
+347,front,1,2,pen+remote,X,pen_remote_X/1/front/pen_0038.JPG,pen,Pinyuan,19
+348,front,1,2,pen+remote,X,pen_remote_X/1/front/remote_0039.JPG,remote,Pinyuan,0
+349,front,1,2,pen+remote,X,pen_remote_X/1/front/remote_0040.JPG,remote,Pinyuan,4
+350,left,1,2,pen+remote,X,pen_remote_X/1/left/pen_0033.JPG,pen,Pinyuan,11
+351,left,1,2,pen+remote,X,pen_remote_X/1/left/pen_0034.JPG,pen,Pinyuan,8
+352,left,1,2,pen+remote,X,pen_remote_X/1/left/remote_0035.JPG,remote,Pinyuan,14
+353,left,1,2,pen+remote,X,pen_remote_X/1/left/remote_0036.JPG,remote,Pinyuan,12
+354,right,1,2,pen+remote,X,pen_remote_X/1/right/pen_0041.JPG,pen,Pinyuan,17
+355,right,1,2,pen+remote,X,pen_remote_X/1/right/pen_0042.JPG,pen,Pinyuan,18
+356,right,1,2,pen+remote,X,pen_remote_X/1/right/remote_0043.JPG,remote,Pinyuan,1
+357,right,1,2,pen+remote,X,pen_remote_X/1/right/remote_0044.JPG,remote,Pinyuan,9
+358,front,2,2,pen+remote,X,pen_remote_X/2/front/pen_0049.JPG,pen,Pinyuan,7
+359,front,2,2,pen+remote,X,pen_remote_X/2/front/pen_0050.JPG,pen,Pinyuan,6
+360,front,2,2,pen+remote,X,pen_remote_X/2/front/remote_0051.JPG,remote,Pinyuan,11
+361,front,2,2,pen+remote,X,pen_remote_X/2/front/remote_0052.JPG,remote,Pinyuan,14
+362,left,2,2,pen+remote,X,pen_remote_X/2/left/pen_0045.JPG,pen,Pinyuan,7
+363,left,2,2,pen+remote,X,pen_remote_X/2/left/pen_0046.JPG,pen,Pinyuan,13
+364,left,2,2,pen+remote,X,pen_remote_X/2/left/remote_0047.JPG,remote,Pinyuan,7
+365,left,2,2,pen+remote,X,pen_remote_X/2/left/remote_0048.JPG,remote,Pinyuan,17
+366,right,2,2,pen+remote,X,pen_remote_X/2/right/pen_0053.JPG,pen,Pinyuan,9
+367,right,2,2,pen+remote,X,pen_remote_X/2/right/pen_0054.JPG,pen,Pinyuan,17
+368,right,2,2,pen+remote,X,pen_remote_X/2/right/remote_0055.JPG,remote,Pinyuan,7
+369,right,2,2,pen+remote,X,pen_remote_X/2/right/remote_0056.JPG,remote,Pinyuan,0
+370,front,3,2,pen+remote,X,pen_remote_X/3/front/pen_0061.JPG,pen,Pinyuan,10
+371,front,3,2,pen+remote,X,pen_remote_X/3/front/pen_0062.JPG,pen,Pinyuan,16
+372,front,3,2,pen+remote,X,pen_remote_X/3/front/remote_0063.JPG,remote,Pinyuan,13
+373,front,3,2,pen+remote,X,pen_remote_X/3/front/remote_0064.JPG,remote,Pinyuan,10
+374,left,3,2,pen+remote,X,pen_remote_X/3/left/pen_0057.JPG,pen,Pinyuan,3
+375,left,3,2,pen+remote,X,pen_remote_X/3/left/pen_0058.JPG,pen,Pinyuan,6
+376,left,3,2,pen+remote,X,pen_remote_X/3/left/remote_0059.JPG,remote,Pinyuan,6
+377,left,3,2,pen+remote,X,pen_remote_X/3/left/remote_0060.JPG,remote,Pinyuan,17
+378,right,3,2,pen+remote,X,pen_remote_X/3/right/pen_0065.JPG,pen,Pinyuan,10
+379,right,3,2,pen+remote,X,pen_remote_X/3/right/pen_0066.JPG,pen,Pinyuan,8
+380,right,3,2,pen+remote,X,pen_remote_X/3/right/remote_0067.JPG,remote,Pinyuan,13
+381,right,3,2,pen+remote,X,pen_remote_X/3/right/remote_0068.JPG,remote,Pinyuan,1
+382,front,1,2,pen+soccer,X,pen_soccer_X/1/front/pen_0151.JPG,pen,Pinyuan,17
+383,front,1,2,pen+soccer,X,pen_soccer_X/1/front/pen_0152.JPG,pen,Pinyuan,3
+384,front,1,2,pen+soccer,X,pen_soccer_X/1/front/soccer_0153.JPG,soccer,Pinyuan,14
+385,front,1,2,pen+soccer,X,pen_soccer_X/1/front/soccer_0154.JPG,soccer,Pinyuan,7
+386,left,1,2,pen+soccer,X,pen_soccer_X/1/left/pen_0147.JPG,pen,Pinyuan,10
+387,left,1,2,pen+soccer,X,pen_soccer_X/1/left/pen_0148.JPG,pen,Pinyuan,15
+388,left,1,2,pen+soccer,X,pen_soccer_X/1/left/soccer_0149.JPG,soccer,Pinyuan,8
+389,left,1,2,pen+soccer,X,pen_soccer_X/1/left/soccer_0150.JPG,soccer,Pinyuan,3
+390,right,1,2,pen+soccer,X,pen_soccer_X/1/right/pen_0155.JPG,pen,Pinyuan,11
+391,right,1,2,pen+soccer,X,pen_soccer_X/1/right/pen_0156.JPG,pen,Pinyuan,7
+392,right,1,2,pen+soccer,X,pen_soccer_X/1/right/soccer_0157.JPG,soccer,Pinyuan,5
+393,right,1,2,pen+soccer,X,pen_soccer_X/1/right/soccer_0158.JPG,soccer,Pinyuan,14
+394,front,2,2,pen+soccer,X,pen_soccer_X/2/front/pen_0163.JPG,pen,Pinyuan,2
+395,front,2,2,pen+soccer,X,pen_soccer_X/2/front/pen_0164.JPG,pen,Pinyuan,16
+396,front,2,2,pen+soccer,X,pen_soccer_X/2/front/soccer_0165.JPG,soccer,Pinyuan,10
+397,front,2,2,pen+soccer,X,pen_soccer_X/2/front/soccer_0166.JPG,soccer,Pinyuan,14
+398,left,2,2,pen+soccer,X,pen_soccer_X/2/left/pen_0159.JPG,pen,Pinyuan,11
+399,left,2,2,pen+soccer,X,pen_soccer_X/2/left/pen_0160.JPG,pen,Pinyuan,17
+400,left,2,2,pen+soccer,X,pen_soccer_X/2/left/soccer_0161.JPG,soccer,Pinyuan,9
+401,left,2,2,pen+soccer,X,pen_soccer_X/2/left/soccer_0162.JPG,soccer,Pinyuan,14
+402,right,2,2,pen+soccer,X,pen_soccer_X/2/right/pen_0167.JPG,pen,Pinyuan,4
+403,right,2,2,pen+soccer,X,pen_soccer_X/2/right/pen_0168.JPG,pen,Pinyuan,6
+404,right,2,2,pen+soccer,X,pen_soccer_X/2/right/soccer_0169.JPG,soccer,Pinyuan,18
+405,right,2,2,pen+soccer,X,pen_soccer_X/2/right/soccer_0170.JPG,soccer,Pinyuan,7
+406,front,3,2,pen+soccer,X,pen_soccer_X/3/front/pen_0175.JPG,pen,Pinyuan,1
+407,front,3,2,pen+soccer,X,pen_soccer_X/3/front/pen_0176.JPG,pen,Pinyuan,2
+408,front,3,2,pen+soccer,X,pen_soccer_X/3/front/soccer_0177.JPG,soccer,Pinyuan,12
+409,front,3,2,pen+soccer,X,pen_soccer_X/3/front/soccer_0178.JPG,soccer,Pinyuan,15
+410,left,3,2,pen+soccer,X,pen_soccer_X/3/left/pen_0171.JPG,pen,Pinyuan,17
+411,left,3,2,pen+soccer,X,pen_soccer_X/3/left/pen_0172.JPG,pen,Pinyuan,10
+412,left,3,2,pen+soccer,X,pen_soccer_X/3/left/soccer_0173.JPG,soccer,Pinyuan,12
+413,left,3,2,pen+soccer,X,pen_soccer_X/3/left/soccer_0174.JPG,soccer,Pinyuan,15
+414,right,3,2,pen+soccer,X,pen_soccer_X/3/right/pen_0179.JPG,pen,Pinyuan,7
+415,right,3,2,pen+soccer,X,pen_soccer_X/3/right/pen_0180.JPG,pen,Pinyuan,11
+416,right,3,2,pen+soccer,X,pen_soccer_X/3/right/soccer_0181.JPG,soccer,Pinyuan,2
+417,right,3,2,pen+soccer,X,pen_soccer_X/3/right/soccer_0182.JPG,soccer,Pinyuan,13
+418,front,1,2,pen+yellow eraser,X,pen_yellow_X/1/front/IMG_0195.JPG,pen,Pinyuan,17
+419,front,1,2,pen+yellow eraser,X,pen_yellow_X/1/front/IMG_0196.JPG,pen,Pinyuan,17
+420,front,1,2,pen+yellow eraser,X,pen_yellow_X/1/front/IMG_0197.JPG,yellow eraser,Pinyuan,8
+421,front,1,2,pen+yellow eraser,X,pen_yellow_X/1/front/IMG_0198.JPG,yellow eraser,Pinyuan,1
+422,left,1,2,pen+yellow eraser,X,pen_yellow_X/1/left/pen_0183.JPG,pen,Pinyuan,19
+423,left,1,2,pen+yellow eraser,X,pen_yellow_X/1/left/pen_0184.JPG,pen,Pinyuan,0
+424,left,1,2,pen+yellow eraser,X,pen_yellow_X/1/left/yellow_0185.JPG,yellow eraser,Pinyuan,14
+425,left,1,2,pen+yellow eraser,X,pen_yellow_X/1/left/yellow_0186.JPG,yellow eraser,Pinyuan,1
+426,right,1,2,pen+yellow eraser,X,pen_yellow_X/1/right/IMG_0207.JPG,pen,Pinyuan,15
+427,right,1,2,pen+yellow eraser,X,pen_yellow_X/1/right/IMG_0208.JPG,pen,Pinyuan,5
+428,right,1,2,pen+yellow eraser,X,pen_yellow_X/1/right/IMG_0209.JPG,yellow eraser,Pinyuan,0
+429,right,1,2,pen+yellow eraser,X,pen_yellow_X/1/right/IMG_0210.JPG,yellow eraser,Pinyuan,16
+430,front,2,2,pen+yellow eraser,X,pen_yellow_X/2/front/IMG_0199.JPG,pen,Pinyuan,4
+431,front,2,2,pen+yellow eraser,X,pen_yellow_X/2/front/IMG_0200.JPG,pen,Pinyuan,8
+432,front,2,2,pen+yellow eraser,X,pen_yellow_X/2/front/IMG_0201.JPG,yellow eraser,Pinyuan,9
+433,front,2,2,pen+yellow eraser,X,pen_yellow_X/2/front/IMG_0202.JPG,yellow eraser,Pinyuan,14
+434,left,2,2,pen+yellow eraser,X,pen_yellow_X/2/left/IMG_0187.JPG,pen,Pinyuan,9
+435,left,2,2,pen+yellow eraser,X,pen_yellow_X/2/left/IMG_0188.JPG,pen,Pinyuan,19
+436,left,2,2,pen+yellow eraser,X,pen_yellow_X/2/left/IMG_0189.JPG,yellow eraser,Pinyuan,11
+437,left,2,2,pen+yellow eraser,X,pen_yellow_X/2/left/IMG_0190.JPG,yellow eraser,Pinyuan,16
+438,right,2,2,pen+yellow eraser,X,pen_yellow_X/2/right/IMG_0211.JPG,pen,Pinyuan,12
+439,right,2,2,pen+yellow eraser,X,pen_yellow_X/2/right/IMG_0212.JPG,pen,Pinyuan,3
+440,right,2,2,pen+yellow eraser,X,pen_yellow_X/2/right/IMG_0213.JPG,yellow eraser,Pinyuan,3
+441,right,2,2,pen+yellow eraser,X,pen_yellow_X/2/right/IMG_0214.JPG,yellow eraser,Pinyuan,17
+442,front,3,2,pen+yellow eraser,X,pen_yellow_X/3/front/IMG_0203.JPG,pen,Pinyuan,19
+443,front,3,2,pen+yellow eraser,X,pen_yellow_X/3/front/IMG_0204.JPG,pen,Pinyuan,18
+444,front,3,2,pen+yellow eraser,X,pen_yellow_X/3/front/IMG_0205.JPG,yellow eraser,Pinyuan,9
+445,front,3,2,pen+yellow eraser,X,pen_yellow_X/3/front/IMG_0206.JPG,yellow eraser,Pinyuan,14
+446,left,3,2,pen+yellow eraser,X,pen_yellow_X/3/left/IMG_0191.JPG,pen,Pinyuan,7
+447,left,3,2,pen+yellow eraser,X,pen_yellow_X/3/left/IMG_0192.JPG,pen,Pinyuan,10
+448,left,3,2,pen+yellow eraser,X,pen_yellow_X/3/left/IMG_0193.JPG,yellow eraser,Pinyuan,1
+449,left,3,2,pen+yellow eraser,X,pen_yellow_X/3/left/IMG_0194.JPG,yellow eraser,Pinyuan,2
+450,right,3,2,pen+yellow eraser,X,pen_yellow_X/3/right/IMG_0215.JPG,pen,Pinyuan,16
+451,right,3,2,pen+yellow eraser,X,pen_yellow_X/3/right/IMG_0216.JPG,pen,Pinyuan,16
+452,right,3,2,pen+yellow eraser,X,pen_yellow_X/3/right/IMG_0217.JPG,yellow eraser,Pinyuan,16
+453,right,3,2,pen+yellow eraser,X,pen_yellow_X/3/right/IMG_0218.JPG,yellow eraser,Pinyuan,19
+454,front,1,2,remote+water,Y,remote_bottle_Y/1/front/IMG_0551.jpeg,remote,Zory,2
+455,front,1,2,remote+water,Y,remote_bottle_Y/1/front/IMG_0552.jpeg,remote,Zory,8
+456,front,1,2,remote+water,Y,remote_bottle_Y/1/front/IMG_0553.jpeg,remote,Zory,1
+457,front,1,2,remote+water,Y,remote_bottle_Y/1/front/IMG_0554.jpeg,water,Zory,0
+458,front,1,2,remote+water,Y,remote_bottle_Y/1/front/IMG_0555.jpeg,water,Zory,3
+459,front,1,2,remote+water,Y,remote_bottle_Y/1/front/IMG_0556.jpeg,water,Zory,14
+460,left,1,2,remote+water,Y,remote_bottle_Y/1/left/bottle_0548.jpeg,water,Zory,3
+461,left,1,2,remote+water,Y,remote_bottle_Y/1/left/bottle_0549.jpeg,water,Zory,9
+462,left,1,2,remote+water,Y,remote_bottle_Y/1/left/bottle_0550.jpeg,water,Zory,9
+463,left,1,2,remote+water,Y,remote_bottle_Y/1/left/remote_0545.jpeg,remote,Zory,2
+464,left,1,2,remote+water,Y,remote_bottle_Y/1/left/remote_0546.jpeg,remote,Zory,17
+465,left,1,2,remote+water,Y,remote_bottle_Y/1/left/remote_0547.jpeg,remote,Zory,19
+466,right,1,2,remote+water,Y,remote_bottle_Y/1/right/IMG_0557.jpeg,remote,Zory,3
+467,right,1,2,remote+water,Y,remote_bottle_Y/1/right/IMG_0558.jpeg,remote,Zory,18
+468,right,1,2,remote+water,Y,remote_bottle_Y/1/right/IMG_0559.jpeg,remote,Zory,6
+469,right,1,2,remote+water,Y,remote_bottle_Y/1/right/IMG_0560.jpeg,water,Zory,19
+470,right,1,2,remote+water,Y,remote_bottle_Y/1/right/IMG_0561.jpeg,water,Zory,5
+471,right,1,2,remote+water,Y,remote_bottle_Y/1/right/IMG_0562.jpeg,water,Zory,15
+472,front,2,2,remote+water,Y,remote_bottle_Y/2/front/bottle_0575.jpeg,water,Zory,10
+473,front,2,2,remote+water,Y,remote_bottle_Y/2/front/bottle_0576.jpeg,water,Zory,16
+474,front,2,2,remote+water,Y,remote_bottle_Y/2/front/bottle_0577.jpeg,water,Zory,1
+475,front,2,2,remote+water,Y,remote_bottle_Y/2/front/remote_0571.jpeg,remote,Zory,14
+476,front,2,2,remote+water,Y,remote_bottle_Y/2/front/remote_0572.jpeg,remote,Zory,2
+477,front,2,2,remote+water,Y,remote_bottle_Y/2/front/remote_0573.jpeg,remote,Zory,11
+478,front,2,2,remote+water,Y,remote_bottle_Y/2/front/remote_0574.jpeg,remote,Zory,8
+479,left,2,2,remote+water,Y,remote_bottle_Y/2/left/bottle_0567.jpeg,water,Zory,2
+480,left,2,2,remote+water,Y,remote_bottle_Y/2/left/bottle_0568.jpeg,water,Zory,9
+481,left,2,2,remote+water,Y,remote_bottle_Y/2/left/bottle_0570.jpeg,water,Zory,9
+482,left,2,2,remote+water,Y,remote_bottle_Y/2/left/remote_0563.jpeg,remote,Zory,11
+483,left,2,2,remote+water,Y,remote_bottle_Y/2/left/remote_0564.jpeg,remote,Zory,13
+484,left,2,2,remote+water,Y,remote_bottle_Y/2/left/remote_0565.jpeg,remote,Zory,14
+485,left,2,2,remote+water,Y,remote_bottle_Y/2/left/remote_0566.jpeg,remote,Zory,11
+486,right,2,2,remote+water,Y,remote_bottle_Y/2/right/IMG_0578.jpeg,remote,Zory,9
+487,right,2,2,remote+water,Y,remote_bottle_Y/2/right/IMG_0579.jpeg,remote,Zory,2
+488,right,2,2,remote+water,Y,remote_bottle_Y/2/right/IMG_0580.jpeg,remote,Zory,7
+489,right,2,2,remote+water,Y,remote_bottle_Y/2/right/IMG_0581.jpeg,water,Zory,2
+490,right,2,2,remote+water,Y,remote_bottle_Y/2/right/IMG_0582.jpeg,water,Zory,19
+491,right,2,2,remote+water,Y,remote_bottle_Y/2/right/IMG_0583.jpeg,water,Zory,10
+492,front,3,2,remote+water,Y,remote_bottle_Y/3/front/IMG_0590.jpeg,remote,Zory,3
+493,front,3,2,remote+water,Y,remote_bottle_Y/3/front/IMG_0591.jpeg,remote,Zory,5
+494,front,3,2,remote+water,Y,remote_bottle_Y/3/front/IMG_0592.jpeg,remote,Zory,10
+495,front,3,2,remote+water,Y,remote_bottle_Y/3/front/IMG_0593.jpeg,water,Zory,5
+496,front,3,2,remote+water,Y,remote_bottle_Y/3/front/IMG_0594.jpeg,water,Zory,4
+497,front,3,2,remote+water,Y,remote_bottle_Y/3/front/IMG_0595.jpeg,water,Zory,10
+498,left,3,2,remote+water,Y,remote_bottle_Y/3/left/IMG_0584.jpeg,remote,Zory,9
+499,left,3,2,remote+water,Y,remote_bottle_Y/3/left/IMG_0585.jpeg,remote,Zory,-1
+500,left,3,2,remote+water,Y,remote_bottle_Y/3/left/IMG_0586.jpeg,remote,Zory,12
+501,left,3,2,remote+water,Y,remote_bottle_Y/3/left/IMG_0587.jpeg,water,Zory,6
+502,left,3,2,remote+water,Y,remote_bottle_Y/3/left/IMG_0588.jpeg,water,Zory,4
+503,left,3,2,remote+water,Y,remote_bottle_Y/3/left/IMG_0589.jpeg,water,Zory,16
+504,right,3,2,remote+water,Y,remote_bottle_Y/3/right/bottle_0599.jpeg,water,Zory,17
+505,right,3,2,remote+water,Y,remote_bottle_Y/3/right/bottle_0600.jpeg,water,Zory,1
+506,right,3,2,remote+water,Y,remote_bottle_Y/3/right/bottle_0601.jpeg,water,Zory,15
+507,right,3,2,remote+water,Y,remote_bottle_Y/3/right/bottle_0602.jpeg,water,Zory,12
+508,right,3,2,remote+water,Y,remote_bottle_Y/3/right/remote_0596.jpeg,remote,Zory,14
+509,right,3,2,remote+water,Y,remote_bottle_Y/3/right/remote_0597.jpeg,remote,Zory,10
+510,right,3,2,remote+water,Y,remote_bottle_Y/3/right/remote_0598.jpeg,remote,Zory,10
+511,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0612.jpeg,remote,Pinyuan,13
+512,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0613.jpeg,remote,Pinyuan,8
+513,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0614.jpeg,remote,Pinyuan,10
+514,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0615.jpeg,coffee,Pinyuan,17
+515,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0616.jpeg,coffee,Pinyuan,6
+516,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0617.jpeg,coffee,Pinyuan,12
+517,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0618.jpeg,water,Pinyuan,18
+518,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0619.jpeg,water,Pinyuan,17
+519,front,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/front/IMG_0620.jpeg,water,Pinyuan,12
+520,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/bottle_0609.jpeg,water,Pinyuan,4
+521,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/bottle_0610.jpeg,water,Pinyuan,14
+522,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/bottle_0611.jpeg,water,Pinyuan,19
+523,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/coffee_0606.jpeg,coffee,Pinyuan,4
+524,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/coffee_0607.jpeg,coffee,Pinyuan,14
+525,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/coffee_0608.jpeg,coffee,Pinyuan,11
+526,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/remote_0603.jpeg,remote,Pinyuan,6
+527,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/remote_0604.jpeg,remote,Pinyuan,10
+528,left,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/left/remote_0605.jpeg,remote,Pinyuan,16
+529,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/bottle_0627.jpeg,water,Pinyuan,0
+530,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/bottle_0628.jpeg,water,Pinyuan,9
+531,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/bottle_0629.jpeg,water,Pinyuan,18
+532,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/coffee_0623.jpeg,coffee,Pinyuan,1
+533,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/coffee_0624.jpeg,coffee,Pinyuan,19
+534,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/coffee_0625.jpeg,coffee,Pinyuan,15
+535,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/coffee_0626.jpeg,coffee,Pinyuan,10
+536,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/remote_0621.jpeg,remote,Pinyuan,11
+537,right,1,3,remote+coffee+water,Y,remote_coffee_bottle_Y/1/right/remote_0622.jpeg,remote,Pinyuan,19
+538,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0638.jpeg,remote,Pinyuan,17
+539,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0639.jpeg,remote,Pinyuan,8
+540,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0640.jpeg,remote,Pinyuan,5
+541,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0641.jpeg,coffee,Pinyuan,11
+542,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0642.jpeg,coffee,Pinyuan,7
+543,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0643.jpeg,coffee,Pinyuan,11
+544,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0644.jpeg,water,Pinyuan,15
+545,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0645.jpeg,water,Pinyuan,11
+546,front,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/front/IMG_0646.jpeg,water,Pinyuan,8
+547,left,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/left/bottle_0635.jpeg,water,Pinyuan,17
+548,left,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/left/bottle_0636.jpeg,water,Pinyuan,6
+549,left,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/left/bottle_0637.jpeg,water,Pinyuan,14
+550,left,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/left/coffee_0633.jpeg,coffee,Pinyuan,1
+551,left,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/left/coffee_0634.jpeg,coffee,Pinyuan,7
+552,left,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/left/remote_0630.jpeg,remote,Pinyuan,16
+553,left,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/left/remote_0631.jpeg,remote,Pinyuan,13
+554,left,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/left/remote_0632.jpeg,remote,Pinyuan,5
+555,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0647.jpeg,remote,Pinyuan,15
+556,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0648.jpeg,remote,Pinyuan,11
+557,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0649.jpeg,remote,Pinyuan,12
+558,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0650.jpeg,coffee,Pinyuan,14
+559,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0651.jpeg,coffee,Pinyuan,11
+560,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0652.jpeg,coffee,Pinyuan,7
+561,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0653.jpeg,water,Pinyuan,18
+562,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0654.jpeg,water,Pinyuan,2
+563,right,2,3,remote+coffee+water,Y,remote_coffee_bottle_Y/2/right/IMG_0655.jpeg,water,Pinyuan,17
+564,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0665.jpeg,remote,Pinyuan,12
+565,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0666.jpeg,remote,Pinyuan,12
+566,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0667.jpeg,remote,Pinyuan,7
+567,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0668.jpeg,coffee,Pinyuan,11
+568,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0669.jpeg,coffee,Pinyuan,7
+569,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0670.jpeg,coffee,Pinyuan,6
+570,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0671.jpeg,water,Pinyuan,11
+571,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0672.jpeg,water,Pinyuan,9
+572,front,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/front/IMG_0673.jpeg,water,Pinyuan,3
+573,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0656.jpeg,remote,Pinyuan,14
+574,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0657.jpeg,remote,Pinyuan,8
+575,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0658.jpeg,remote,Pinyuan,18
+576,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0659.jpeg,coffee,Pinyuan,3
+577,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0660.jpeg,coffee,Pinyuan,7
+578,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0661.jpeg,coffee,Pinyuan,13
+579,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0662.jpeg,water,Pinyuan,3
+580,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0663.jpeg,water,Pinyuan,15
+581,left,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/left/IMG_0664.jpeg,water,Pinyuan,17
+582,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0674.jpeg,remote,Pinyuan,14
+583,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0675.jpeg,remote,Pinyuan,19
+584,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0676.jpeg,remote,Pinyuan,18
+585,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0677.jpeg,coffee,Pinyuan,8
+586,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0678.jpeg,coffee,Pinyuan,1
+587,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0679.jpeg,coffee,Pinyuan,10
+588,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0680.jpeg,water,Pinyuan,4
+589,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0681.jpeg,water,Pinyuan,19
+590,right,3,3,remote+coffee+water,Y,remote_coffee_bottle_Y/3/right/IMG_0682.jpeg,water,Pinyuan,2
+591,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0694.jpeg,remote,Zory,7
+592,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0695.jpeg,remote,Zory,15
+593,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0696.jpeg,remote,Zory,16
+594,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0697.jpeg,doll,Zory,0
+595,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0698.jpeg,doll,Zory,5
+596,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0699.jpeg,doll,Zory,16
+597,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0700.jpeg,coffee,Zory,3
+598,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0701.jpeg,coffee,Zory,6
+599,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0702.jpeg,coffee,Zory,4
+600,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0703.jpeg,water,Zory,2
+601,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0704.jpeg,water,Zory,8
+602,front,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/front/IMG_0705.jpeg,water,Zory,19
+603,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/bottle_0691.jpeg,water,Zory,3
+604,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/bottle_0692.jpeg,water,Zory,8
+605,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/bottle_0693.jpeg,water,Zory,2
+606,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/coffee_0688.jpeg,coffee,Zory,12
+607,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/coffee_0689.jpeg,coffee,Zory,13
+608,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/coffee_0690.jpeg,coffee,Zory,2
+609,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/doll_0685.jpeg,doll,Zory,1
+610,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/doll_0686.jpeg,doll,Zory,16
+611,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/doll_0687.jpeg,doll,Zory,12
+612,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/remote_0683.jpeg,remote,Zory,0
+613,left,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/left/remote_0684.jpeg,remote,Zory,7
+614,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0706.jpeg,remote,Zory,2
+615,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0707.jpeg,remote,Zory,5
+616,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0708.jpeg,remote,Zory,6
+617,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0709.jpeg,doll,Zory,15
+618,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0710.jpeg,doll,Zory,17
+619,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0711.jpeg,doll,Zory,11
+620,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0712.jpeg,coffee,Zory,1
+621,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0713.jpeg,coffee,Zory,6
+622,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0714.jpeg,coffee,Zory,11
+623,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0715.jpeg,water,Zory,1
+624,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0716.jpeg,water,Zory,4
+625,right,1,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/1/right/IMG_0717.jpeg,water,Zory,18
+626,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/bottle_0738.jpeg,water,Zory,14
+627,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/bottle_0739.jpeg,water,Zory,13
+628,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/coffee_0736.jpeg,coffee,Zory,9
+629,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/coffee_0737.jpeg,coffee,Zory,1
+630,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/doll_0733.jpeg,doll,Zory,17
+631,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/doll_0734.jpeg,doll,Zory,13
+632,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/doll_0735.jpeg,doll,Zory,9
+633,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/remote_0729.jpeg,remote,Zory,8
+634,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/remote_0730.jpeg,remote,Zory,6
+635,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/remote_0731.jpeg,remote,Zory,13
+636,front,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/front/remote_0732.jpeg,remote,Zory,10
+637,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/bottle_0726.jpeg,water,Zory,0
+638,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/bottle_0727.jpeg,water,Zory,9
+639,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/bottle_0728.jpeg,water,Zory,19
+640,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/coffee_0723.jpeg,coffee,Zory,12
+641,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/coffee_0724.jpeg,coffee,Zory,16
+642,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/coffee_0725.jpeg,coffee,Zory,18
+643,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/doll_0720.jpeg,doll,Zory,7
+644,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/doll_0721.jpeg,doll,Zory,0
+645,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/doll_0722.jpeg,doll,Zory,17
+646,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/remote_0718.jpeg,remote,Zory,8
+647,left,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/left/remote_0719.jpeg,remote,Zory,9
+648,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/bottle_0748.jpeg,water,Zory,5
+649,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/bottle_0749.jpeg,water,Zory,0
+650,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/bottle_0750.jpeg,water,Zory,2
+651,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/coffee_0746.jpeg,coffee,Zory,12
+652,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/coffee_0747.jpeg,coffee,Zory,13
+653,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/doll_0743.jpeg,doll,Zory,1
+654,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/doll_0744.jpeg,doll,Zory,3
+655,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/doll_0745.jpeg,doll,Zory,12
+656,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/remote_0740.jpeg,remote,Zory,5
+657,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/remote_0741.jpeg,remote,Zory,15
+658,right,2,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/2/right/remote_0742.jpeg,remote,Zory,1
+659,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/bottle_0769.jpeg,water,Zory,17
+660,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/bottle_0770.jpeg,water,Zory,8
+661,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/bottle_0771.jpeg,water,Zory,1
+662,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/coffee_0772.jpeg,coffee,Zory,11
+663,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/coffee_0773.jpeg,coffee,Zory,11
+664,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/doll_0766.jpeg,doll,Zory,7
+665,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/doll_0767.jpeg,doll,Zory,5
+666,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/doll_0768.jpeg,doll,Zory,5
+667,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/remote_0763.jpeg,remote,Zory,12
+668,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/remote_0764.jpeg,remote,Zory,2
+669,front,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/front/remote_0765.jpeg,remote,Zory,19
+670,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/bottle_0760.jpeg,water,Zory,7
+671,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/coffee_0757.jpeg,coffee,Zory,7
+672,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/coffee_0758.jpeg,coffee,Zory,0
+673,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/coffee_0759.jpeg,coffee,Zory,8
+674,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/doll_0754.jpeg,doll,Zory,5
+675,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/doll_0755.jpeg,doll,Zory,8
+676,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/doll_0756.jpeg,doll,Zory,5
+677,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/remote_0751.jpeg,remote,Zory,3
+678,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/remote_0752.jpeg,remote,Zory,13
+679,left,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/left/remote_0753.jpeg,remote,Zory,0
+680,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/bottle_0782.jpeg,water,Zory,8
+681,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/bottle_0783.jpeg,water,Zory,8
+682,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/bottle_0784.jpeg,water,Zory,4
+683,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/coffee_0779.jpeg,coffee,Zory,15
+684,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/coffee_0780.jpeg,coffee,Zory,18
+685,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/coffee_0781.jpeg,coffee,Zory,7
+686,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/doll_0776.jpeg,doll,Zory,2
+687,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/doll_0777.jpeg,doll,Zory,3
+688,right,3,4,remote+doll+coffee+water,Y,remote_doll_coffee_bottle_Y/3/right/remote.jpeg,remote,Zory,3
+689,front,1,2,soccer+basketball,Y,soccer_basketball_Y/1/front/basketball_0512.jpeg,basketball,Pinyuan,17
+690,front,1,2,soccer+basketball,Y,soccer_basketball_Y/1/front/basketball_0513.jpeg,basketball,Pinyuan,11
+691,front,1,2,soccer+basketball,Y,soccer_basketball_Y/1/front/basketball_0514.jpeg,basketball,Pinyuan,9
+692,front,1,2,soccer+basketball,Y,soccer_basketball_Y/1/front/soccer_0509.jpeg,soccer,Pinyuan,9
+693,front,1,2,soccer+basketball,Y,soccer_basketball_Y/1/front/soccer_0510.jpeg,soccer,Pinyuan,14
+694,front,1,2,soccer+basketball,Y,soccer_basketball_Y/1/front/soccer_0511.jpeg,soccer,Pinyuan,13
+695,left,1,2,soccer+basketball,Y,soccer_basketball_Y/1/left/basketball_0494.jpeg,basketball,Pinyuan,16
+696,left,1,2,soccer+basketball,Y,soccer_basketball_Y/1/left/basketball_0495.jpeg,basketball,Pinyuan,0
+697,left,1,2,soccer+basketball,Y,soccer_basketball_Y/1/left/basketball_0496.jpeg,basketball,Pinyuan,14
+698,left,1,2,soccer+basketball,Y,soccer_basketball_Y/1/left/soccer_0493.jpeg,soccer,Pinyuan,18
+699,right,1,2,soccer+basketball,Y,soccer_basketball_Y/1/right/basketball_0530.jpeg,basketball,Pinyuan,17
+700,right,1,2,soccer+basketball,Y,soccer_basketball_Y/1/right/basketball_0531.jpeg,basketball,Pinyuan,11
+701,right,1,2,soccer+basketball,Y,soccer_basketball_Y/1/right/basketball_0532.jpeg,basketball,Pinyuan,12
+702,right,1,2,soccer+basketball,Y,soccer_basketball_Y/1/right/soccer_0527.jpeg,soccer,Pinyuan,4
+703,right,1,2,soccer+basketball,Y,soccer_basketball_Y/1/right/soccer_0528.jpeg,soccer,Pinyuan,2
+704,right,1,2,soccer+basketball,Y,soccer_basketball_Y/1/right/soccer_0529.jpeg,soccer,Pinyuan,6
+705,front,2,2,soccer+basketball,Y,soccer_basketball_Y/2/front/basketball_0518.jpeg,basketball,Pinyuan,11
+706,front,2,2,soccer+basketball,Y,soccer_basketball_Y/2/front/basketball_0519.jpeg,basketball,Pinyuan,7
+707,front,2,2,soccer+basketball,Y,soccer_basketball_Y/2/front/basketball_0520.jpeg,basketball,Pinyuan,16
+708,front,2,2,soccer+basketball,Y,soccer_basketball_Y/2/front/soccer_0515.jpeg,soccer,Pinyuan,14
+709,front,2,2,soccer+basketball,Y,soccer_basketball_Y/2/front/soccer_0516.jpeg,soccer,Pinyuan,15
+710,front,2,2,soccer+basketball,Y,soccer_basketball_Y/2/front/soccer_0517.jpeg,soccer,Pinyuan,17
+711,left,2,2,soccer+basketball,Y,soccer_basketball_Y/2/left/basketball_0500.jpeg,basketball,Pinyuan,15
+712,left,2,2,soccer+basketball,Y,soccer_basketball_Y/2/left/basketball_0501.jpeg,basketball,Pinyuan,8
+713,left,2,2,soccer+basketball,Y,soccer_basketball_Y/2/left/basketball_0502.jpeg,basketball,Pinyuan,14
+714,left,2,2,soccer+basketball,Y,soccer_basketball_Y/2/left/soccer_0497.jpeg,soccer,Pinyuan,16
+715,left,2,2,soccer+basketball,Y,soccer_basketball_Y/2/left/soccer_0498.jpeg,soccer,Pinyuan,5
+716,left,2,2,soccer+basketball,Y,soccer_basketball_Y/2/left/soccer_0499.jpeg,soccer,Pinyuan,0
+717,right,2,2,soccer+basketball,Y,soccer_basketball_Y/2/right/basketball_0536.jpeg,basketball,Pinyuan,2
+718,right,2,2,soccer+basketball,Y,soccer_basketball_Y/2/right/basketball_0537.jpeg,basketball,Pinyuan,19
+719,right,2,2,soccer+basketball,Y,soccer_basketball_Y/2/right/basketball_0538.jpeg,basketball,Pinyuan,14
+720,right,2,2,soccer+basketball,Y,soccer_basketball_Y/2/right/soccer_0533.jpeg,soccer,Pinyuan,14
+721,right,2,2,soccer+basketball,Y,soccer_basketball_Y/2/right/soccer_0534.jpeg,soccer,Pinyuan,14
+722,right,2,2,soccer+basketball,Y,soccer_basketball_Y/2/right/soccer_0535.jpeg,soccer,Pinyuan,19
+723,front,3,2,soccer+basketball,Y,soccer_basketball_Y/3/front/basketball_0524.jpeg,basketball,Pinyuan,1
+724,front,3,2,soccer+basketball,Y,soccer_basketball_Y/3/front/basketball_0525.jpeg,basketball,Pinyuan,15
+725,front,3,2,soccer+basketball,Y,soccer_basketball_Y/3/front/basketball_0526.jpeg,basketball,Pinyuan,5
+726,front,3,2,soccer+basketball,Y,soccer_basketball_Y/3/front/soccer_0521.jpeg,soccer,Pinyuan,12
+727,front,3,2,soccer+basketball,Y,soccer_basketball_Y/3/front/soccer_0522.jpeg,soccer,Pinyuan,3
+728,front,3,2,soccer+basketball,Y,soccer_basketball_Y/3/front/soccer_0523.jpeg,soccer,Pinyuan,6
+729,left,3,2,soccer+basketball,Y,soccer_basketball_Y/3/left/basketball_0506.jpeg,basketball,Pinyuan,4
+730,left,3,2,soccer+basketball,Y,soccer_basketball_Y/3/left/basketball_0507.jpeg,basketball,Pinyuan,8
+731,left,3,2,soccer+basketball,Y,soccer_basketball_Y/3/left/basketball_0508.jpeg,basketball,Pinyuan,14
+732,left,3,2,soccer+basketball,Y,soccer_basketball_Y/3/left/soccer_0503.jpeg,soccer,Pinyuan,5
+733,left,3,2,soccer+basketball,Y,soccer_basketball_Y/3/left/soccer_0504.jpeg,soccer,Pinyuan,6
+734,left,3,2,soccer+basketball,Y,soccer_basketball_Y/3/left/soccer_0505.jpeg,soccer,Pinyuan,18
+735,right,3,2,soccer+basketball,Y,soccer_basketball_Y/3/right/basketball_0542.jpeg,basketball,Pinyuan,14
+736,right,3,2,soccer+basketball,Y,soccer_basketball_Y/3/right/basketball_0543.jpeg,basketball,Pinyuan,14
+737,right,3,2,soccer+basketball,Y,soccer_basketball_Y/3/right/basketball_0544.jpeg,basketball,Pinyuan,18
+738,right,3,2,soccer+basketball,Y,soccer_basketball_Y/3/right/soccer_0539.jpeg,soccer,Pinyuan,9
+739,right,3,2,soccer+basketball,Y,soccer_basketball_Y/3/right/soccer_0540.jpeg,soccer,Pinyuan,8
+740,right,3,2,soccer+basketball,Y,soccer_basketball_Y/3/right/soccer_0541.jpeg,soccer,Pinyuan,7
+741,front,1,2,soccer+coffee,Y,soccer_coffee_Y/1/front/IMG_0456.jpeg,soccer,Pinyuan,11
+742,front,1,2,soccer+coffee,Y,soccer_coffee_Y/1/front/IMG_0457.jpeg,soccer,Pinyuan,10
+743,front,1,2,soccer+coffee,Y,soccer_coffee_Y/1/front/IMG_0458.jpeg,soccer,Pinyuan,10
+744,front,1,2,soccer+coffee,Y,soccer_coffee_Y/1/front/IMG_0459.jpeg,coffee,Pinyuan,1
+745,front,1,2,soccer+coffee,Y,soccer_coffee_Y/1/front/IMG_0460.jpeg,coffee,Pinyuan,16
+746,front,1,2,soccer+coffee,Y,soccer_coffee_Y/1/front/IMG_0461.jpeg,coffee,Pinyuan,13
+747,left,1,2,soccer+coffee,Y,soccer_coffee_Y/1/left/IMG_0438.jpeg,soccer,Pinyuan,14
+748,left,1,2,soccer+coffee,Y,soccer_coffee_Y/1/left/IMG_0439.jpeg,soccer,Pinyuan,13
+749,left,1,2,soccer+coffee,Y,soccer_coffee_Y/1/left/IMG_0440.jpeg,soccer,Pinyuan,13
+750,left,1,2,soccer+coffee,Y,soccer_coffee_Y/1/left/IMG_0441.jpeg,coffee,Pinyuan,0
+751,left,1,2,soccer+coffee,Y,soccer_coffee_Y/1/left/IMG_0442.jpeg,coffee,Pinyuan,10
+752,left,1,2,soccer+coffee,Y,soccer_coffee_Y/1/left/IMG_0443.jpeg,coffee,Pinyuan,12
+753,right,1,2,soccer+coffee,Y,soccer_coffee_Y/1/right/IMG_0474.jpeg,soccer,Pinyuan,12
+754,right,1,2,soccer+coffee,Y,soccer_coffee_Y/1/right/IMG_0475.jpeg,soccer,Pinyuan,6
+755,right,1,2,soccer+coffee,Y,soccer_coffee_Y/1/right/IMG_0476.jpeg,soccer,Pinyuan,6
+756,right,1,2,soccer+coffee,Y,soccer_coffee_Y/1/right/IMG_0477.jpeg,coffee,Pinyuan,6
+757,right,1,2,soccer+coffee,Y,soccer_coffee_Y/1/right/IMG_0478.jpeg,coffee,Pinyuan,10
+758,right,1,2,soccer+coffee,Y,soccer_coffee_Y/1/right/IMG_0479.jpeg,coffee,Pinyuan,4
+759,front,2,2,soccer+coffee,Y,soccer_coffee_Y/2/front/IMG_0462.jpeg,soccer,Pinyuan,5
+760,front,2,2,soccer+coffee,Y,soccer_coffee_Y/2/front/IMG_0463.jpeg,soccer,Pinyuan,7
+761,front,2,2,soccer+coffee,Y,soccer_coffee_Y/2/front/IMG_0464.jpeg,soccer,Pinyuan,4
+762,front,2,2,soccer+coffee,Y,soccer_coffee_Y/2/front/IMG_0465.jpeg,coffee,Pinyuan,0
+763,front,2,2,soccer+coffee,Y,soccer_coffee_Y/2/front/IMG_0466.jpeg,coffee,Pinyuan,17
+764,front,2,2,soccer+coffee,Y,soccer_coffee_Y/2/front/IMG_0467.jpeg,coffee,Pinyuan,11
+765,left,2,2,soccer+coffee,Y,soccer_coffee_Y/2/left/IMG_0444.jpeg,soccer,Pinyuan,16
+766,left,2,2,soccer+coffee,Y,soccer_coffee_Y/2/left/IMG_0445.jpeg,soccer,Pinyuan,1
+767,left,2,2,soccer+coffee,Y,soccer_coffee_Y/2/left/IMG_0446.jpeg,soccer,Pinyuan,8
+768,left,2,2,soccer+coffee,Y,soccer_coffee_Y/2/left/IMG_0447.jpeg,coffee,Pinyuan,0
+769,left,2,2,soccer+coffee,Y,soccer_coffee_Y/2/left/IMG_0448.jpeg,coffee,Pinyuan,1
+770,left,2,2,soccer+coffee,Y,soccer_coffee_Y/2/left/IMG_0449.jpeg,coffee,Pinyuan,19
+771,right,2,2,soccer+coffee,Y,soccer_coffee_Y/2/right/IMG_0480.jpeg,soccer,Pinyuan,3
+772,right,2,2,soccer+coffee,Y,soccer_coffee_Y/2/right/IMG_0481.jpeg,soccer,Pinyuan,10
+773,right,2,2,soccer+coffee,Y,soccer_coffee_Y/2/right/IMG_0482.jpeg,soccer,Pinyuan,19
+774,right,2,2,soccer+coffee,Y,soccer_coffee_Y/2/right/IMG_0483.jpeg,coffee,Pinyuan,10
+775,right,2,2,soccer+coffee,Y,soccer_coffee_Y/2/right/IMG_0484.jpeg,coffee,Pinyuan,17
+776,right,2,2,soccer+coffee,Y,soccer_coffee_Y/2/right/IMG_0485.jpeg,coffee,Pinyuan,10
+777,front,3,2,soccer+coffee,Y,soccer_coffee_Y/3/front/IMG_0468.jpeg,soccer,Pinyuan,4
+778,front,3,2,soccer+coffee,Y,soccer_coffee_Y/3/front/IMG_0469.jpeg,soccer,Pinyuan,6
+779,front,3,2,soccer+coffee,Y,soccer_coffee_Y/3/front/IMG_0470.jpeg,soccer,Pinyuan,4
+780,front,3,2,soccer+coffee,Y,soccer_coffee_Y/3/front/IMG_0471.jpeg,coffee,Pinyuan,14
+781,front,3,2,soccer+coffee,Y,soccer_coffee_Y/3/front/IMG_0472.jpeg,coffee,Pinyuan,4
+782,front,3,2,soccer+coffee,Y,soccer_coffee_Y/3/front/IMG_0473.jpeg,coffee,Pinyuan,18
+783,left,3,2,soccer+coffee,Y,soccer_coffee_Y/3/left/IMG_0450.jpeg,soccer,Pinyuan,15
+784,left,3,2,soccer+coffee,Y,soccer_coffee_Y/3/left/IMG_0451.jpeg,soccer,Pinyuan,17
+785,left,3,2,soccer+coffee,Y,soccer_coffee_Y/3/left/IMG_0452.jpeg,soccer,Pinyuan,17
+786,left,3,2,soccer+coffee,Y,soccer_coffee_Y/3/left/IMG_0453.jpeg,coffee,Pinyuan,8
+787,left,3,2,soccer+coffee,Y,soccer_coffee_Y/3/left/IMG_0454.jpeg,coffee,Pinyuan,16
+788,left,3,2,soccer+coffee,Y,soccer_coffee_Y/3/left/IMG_0455.jpeg,coffee,Pinyuan,3
+789,right,3,2,soccer+coffee,Y,soccer_coffee_Y/3/right/IMG_0486.jpeg,soccer,Pinyuan,5
+790,right,3,2,soccer+coffee,Y,soccer_coffee_Y/3/right/IMG_0487.jpeg,soccer,Pinyuan,16
+791,right,3,2,soccer+coffee,Y,soccer_coffee_Y/3/right/IMG_0488.jpeg,soccer,Pinyuan,9
+792,right,3,2,soccer+coffee,Y,soccer_coffee_Y/3/right/IMG_0489.jpeg,coffee,Pinyuan,2
+793,right,3,2,soccer+coffee,Y,soccer_coffee_Y/3/right/IMG_0490.jpeg,coffee,Pinyuan,9
+794,right,3,2,soccer+coffee,Y,soccer_coffee_Y/3/right/IMG_0491.jpeg,coffee,Pinyuan,16
+795,front,1,2,soccer+doll,X,soccer_doll_X/1/front/doll_0116.JPG,doll,Pinyuan,8
+796,front,1,2,soccer+doll,X,soccer_doll_X/1/front/doll_0117.JPG,doll,Pinyuan,4
+797,front,1,2,soccer+doll,X,soccer_doll_X/1/front/soccer_0114.JPG,soccer,Pinyuan,2
+798,front,1,2,soccer+doll,X,soccer_doll_X/1/front/soccer_0115.JPG,soccer,Pinyuan,10
+799,left,1,2,soccer+doll,X,soccer_doll_X/1/left/doll_0108.JPG,doll,Pinyuan,18
+800,left,1,2,soccer+doll,X,soccer_doll_X/1/left/doll_0109.JPG,doll,Pinyuan,17
+801,left,1,2,soccer+doll,X,soccer_doll_X/1/left/doll_0112.JPG,doll,Pinyuan,7
+802,left,1,2,soccer+doll,X,soccer_doll_X/1/left/doll_0113.JPG,doll,Pinyuan,19
+803,left,1,2,soccer+doll,X,soccer_doll_X/1/left/soccer_0106.JPG,soccer,Pinyuan,4
+804,left,1,2,soccer+doll,X,soccer_doll_X/1/left/soccer_0107.JPG,soccer,Pinyuan,18
+805,left,1,2,soccer+doll,X,soccer_doll_X/1/left/soccer_0110.JPG,soccer,Pinyuan,18
+806,left,1,2,soccer+doll,X,soccer_doll_X/1/left/soccer_0111.JPG,soccer,Pinyuan,2
+807,right,1,2,soccer+doll,X,soccer_doll_X/1/right/doll_0120.JPG,doll,Pinyuan,11
+808,right,1,2,soccer+doll,X,soccer_doll_X/1/right/doll_0121.JPG,doll,Pinyuan,8
+809,right,1,2,soccer+doll,X,soccer_doll_X/1/right/soccer_0118.JPG,soccer,Pinyuan,7
+810,right,1,2,soccer+doll,X,soccer_doll_X/1/right/soccer_0119.JPG,soccer,Pinyuan,12
+811,front,2,2,soccer+doll,X,soccer_doll_X/2/front/doll_0128.JPG,doll,Pinyuan,14
+812,front,2,2,soccer+doll,X,soccer_doll_X/2/front/doll_0129.JPG,doll,Pinyuan,6
+813,front,2,2,soccer+doll,X,soccer_doll_X/2/front/soccer_0126.JPG,soccer,Pinyuan,18
+814,front,2,2,soccer+doll,X,soccer_doll_X/2/front/soccer_0127.JPG,soccer,Pinyuan,12
+815,left,2,2,soccer+doll,X,soccer_doll_X/2/left/doll_0124.JPG,doll,Pinyuan,13
+816,left,2,2,soccer+doll,X,soccer_doll_X/2/left/doll_0125.JPG,doll,Pinyuan,15
+817,left,2,2,soccer+doll,X,soccer_doll_X/2/left/soccer_0122.JPG,soccer,Pinyuan,3
+818,left,2,2,soccer+doll,X,soccer_doll_X/2/left/soccer_0123.JPG,soccer,Pinyuan,0
+819,right,2,2,soccer+doll,X,soccer_doll_X/2/right/doll_0133.JPG,doll,Pinyuan,15
+820,right,2,2,soccer+doll,X,soccer_doll_X/2/right/doll_0134.JPG,doll,Pinyuan,15
+821,right,2,2,soccer+doll,X,soccer_doll_X/2/right/soccer_0131.JPG,soccer,Pinyuan,6
+822,right,2,2,soccer+doll,X,soccer_doll_X/2/right/soccer_0132.JPG,soccer,Pinyuan,1
+823,front,3,2,soccer+doll,X,soccer_doll_X/3/front/doll_0141.JPG,doll,Pinyuan,-1
+824,front,3,2,soccer+doll,X,soccer_doll_X/3/front/doll_0142.JPG,doll,Pinyuan,3
+825,front,3,2,soccer+doll,X,soccer_doll_X/3/front/soccer_0139.JPG,soccer,Pinyuan,9
+826,front,3,2,soccer+doll,X,soccer_doll_X/3/front/soccer_0140.JPG,soccer,Pinyuan,19
+827,left,3,2,soccer+doll,X,soccer_doll_X/3/left/doll_0137.JPG,doll,Pinyuan,3
+828,left,3,2,soccer+doll,X,soccer_doll_X/3/left/doll_0138.JPG,doll,Pinyuan,13
+829,left,3,2,soccer+doll,X,soccer_doll_X/3/left/soccer_0135.JPG,soccer,Pinyuan,16
+830,left,3,2,soccer+doll,X,soccer_doll_X/3/left/soccer_0136.JPG,soccer,Pinyuan,17
+831,right,3,2,soccer+doll,X,soccer_doll_X/3/right/doll_0145.JPG,doll,Pinyuan,-1
+832,right,3,2,soccer+doll,X,soccer_doll_X/3/right/doll_0146.JPG,doll,Pinyuan,5
+833,right,3,2,soccer+doll,X,soccer_doll_X/3/right/soccer_0143.JPG,soccer,Pinyuan,15
+834,right,3,2,soccer+doll,X,soccer_doll_X/3/right/soccer_0144.JPG,soccer,Pinyuan,15
+835,front,1,2,white eraser+pen,X,white_pen_X/1/front/IMG_9927.JPG,white eraser,Pinyuan,18
+836,front,1,2,white eraser+pen,X,white_pen_X/1/front/IMG_9928.JPG,white eraser,Pinyuan,0
+837,front,1,2,white eraser+pen,X,white_pen_X/1/front/IMG_9929.JPG,pen,Pinyuan,16
+838,front,1,2,white eraser+pen,X,white_pen_X/1/front/IMG_9930.JPG,pen,Pinyuan,6
+839,left,1,2,white eraser+pen,X,white_pen_X/1/left/9923_white.JPG,white eraser,Pinyuan,15
+840,left,1,2,white eraser+pen,X,white_pen_X/1/left/9924_white.JPG,white eraser,Pinyuan,19
+841,left,1,2,white eraser+pen,X,white_pen_X/1/left/9925_pen.JPG,pen,Pinyuan,11
+842,left,1,2,white eraser+pen,X,white_pen_X/1/left/9926_pen.JPG,pen,Pinyuan,8
+843,right,1,2,white eraser+pen,X,white_pen_X/1/right/IMG_9931.JPG,white eraser,Pinyuan,13
+844,right,1,2,white eraser+pen,X,white_pen_X/1/right/IMG_9932.JPG,white eraser,Pinyuan,7
+845,right,1,2,white eraser+pen,X,white_pen_X/1/right/IMG_9933.JPG,pen,Pinyuan,2
+846,right,1,2,white eraser+pen,X,white_pen_X/1/right/IMG_9934.JPG,pen,Pinyuan,4
+847,front,2,2,white eraser+pen,X,white_pen_X/2/front/IMG_9939.JPG,white eraser,Pinyuan,18
+848,front,2,2,white eraser+pen,X,white_pen_X/2/front/IMG_9940.JPG,white eraser,Pinyuan,18
+849,front,2,2,white eraser+pen,X,white_pen_X/2/front/IMG_9941.JPG,pen,Pinyuan,1
+850,front,2,2,white eraser+pen,X,white_pen_X/2/front/IMG_9942.JPG,pen,Pinyuan,18
+851,left,2,2,white eraser+pen,X,white_pen_X/2/left/IMG_9935.JPG,white eraser,Pinyuan,5
+852,left,2,2,white eraser+pen,X,white_pen_X/2/left/IMG_9936.JPG,white eraser,Pinyuan,8
+853,left,2,2,white eraser+pen,X,white_pen_X/2/left/IMG_9937.JPG,pen,Pinyuan,16
+854,left,2,2,white eraser+pen,X,white_pen_X/2/left/IMG_9938.JPG,pen,Pinyuan,5
+855,right,2,2,white eraser+pen,X,white_pen_X/2/right/IMG_9943.JPG,white eraser,Pinyuan,12
+856,right,2,2,white eraser+pen,X,white_pen_X/2/right/IMG_9944.JPG,white eraser,Pinyuan,10
+857,right,2,2,white eraser+pen,X,white_pen_X/2/right/IMG_9945.JPG,pen,Pinyuan,16
+858,right,2,2,white eraser+pen,X,white_pen_X/2/right/IMG_9946.JPG,pen,Pinyuan,1
+859,front,3,2,white eraser+pen,X,white_pen_X/3/front/IMG_9951.JPG,white eraser,Pinyuan,17
+860,front,3,2,white eraser+pen,X,white_pen_X/3/front/IMG_9952.JPG,white eraser,Pinyuan,15
+861,front,3,2,white eraser+pen,X,white_pen_X/3/front/IMG_9953.JPG,pen,Pinyuan,2
+862,front,3,2,white eraser+pen,X,white_pen_X/3/front/IMG_9954.JPG,pen,Pinyuan,14
+863,left,3,2,white eraser+pen,X,white_pen_X/3/left/IMG_9947.JPG,white eraser,Pinyuan,2
+864,left,3,2,white eraser+pen,X,white_pen_X/3/left/IMG_9948.JPG,white eraser,Pinyuan,19
+865,left,3,2,white eraser+pen,X,white_pen_X/3/left/IMG_9949.JPG,pen,Pinyuan,2
+866,left,3,2,white eraser+pen,X,white_pen_X/3/left/IMG_9950.JPG,pen,Pinyuan,2
+867,right,3,2,white eraser+pen,X,white_pen_X/3/right/IMG_9955.JPG,white eraser,Pinyuan,4
+868,right,3,2,white eraser+pen,X,white_pen_X/3/right/IMG_9956.JPG,white eraser,Pinyuan,13
+869,right,3,2,white eraser+pen,X,white_pen_X/3/right/IMG_9957.JPG,pen,Pinyuan,6
+870,right,3,2,white eraser+pen,X,white_pen_X/3/right/IMG_9958.JPG,pen,Pinyuan,18
+871,front,1,2,yellow eraser+white eraser,X,yellow_white_X/1/front/white_1430.jpeg,white eraser,Zory,16
+872,front,1,2,yellow eraser+white eraser,X,yellow_white_X/1/front/white_1431.jpeg,white eraser,Zory,19
+873,front,1,2,yellow eraser+white eraser,X,yellow_white_X/1/front/yellow_1428.jpeg,yellow eraser,Zory,0
+874,front,1,2,yellow eraser+white eraser,X,yellow_white_X/1/front/yellow_1429.jpeg,yellow eraser,Zory,9
+875,left,1,2,yellow eraser+white eraser,X,yellow_white_X/1/left/IMG_1424.jpeg,yellow eraser,Zory,3
+876,left,1,2,yellow eraser+white eraser,X,yellow_white_X/1/left/IMG_1425.jpeg,yellow eraser,Zory,9
+877,left,1,2,yellow eraser+white eraser,X,yellow_white_X/1/left/IMG_1426.jpeg,white eraser,Zory,13
+878,left,1,2,yellow eraser+white eraser,X,yellow_white_X/1/left/IMG_1427.jpeg,white eraser,Zory,19
+879,right,1,2,yellow eraser+white eraser,X,yellow_white_X/1/right/IMG_1432.jpeg,yellow eraser,Zory,11
+880,right,1,2,yellow eraser+white eraser,X,yellow_white_X/1/right/IMG_1433.jpeg,yellow eraser,Zory,7
+881,right,1,2,yellow eraser+white eraser,X,yellow_white_X/1/right/IMG_1434.jpeg,white eraser,Zory,12
+882,right,1,2,yellow eraser+white eraser,X,yellow_white_X/1/right/IMG_1435.jpeg,white eraser,Zory,5
+883,front,2,2,yellow eraser+white eraser,X,yellow_white_X/2/front/IMG_1452.jpeg,yellow eraser,Zory,1
+884,front,2,2,yellow eraser+white eraser,X,yellow_white_X/2/front/IMG_1453.jpeg,yellow eraser,Zory,0
+885,front,2,2,yellow eraser+white eraser,X,yellow_white_X/2/front/IMG_1454.jpeg,white eraser,Zory,3
+886,front,2,2,yellow eraser+white eraser,X,yellow_white_X/2/front/IMG_1455.jpeg,white eraser,Zory,12
+887,left,2,2,yellow eraser+white eraser,X,yellow_white_X/2/left/IMG_1448.jpeg,yellow eraser,Zory,18
+888,left,2,2,yellow eraser+white eraser,X,yellow_white_X/2/left/IMG_1449.jpeg,yellow eraser,Zory,14
+889,left,2,2,yellow eraser+white eraser,X,yellow_white_X/2/left/IMG_1450.jpeg,white eraser,Zory,13
+890,left,2,2,yellow eraser+white eraser,X,yellow_white_X/2/left/IMG_1451.jpeg,white eraser,Zory,10
+891,right,2,2,yellow eraser+white eraser,X,yellow_white_X/2/right/IMG_1456.jpeg,yellow eraser,Zory,19
+892,right,2,2,yellow eraser+white eraser,X,yellow_white_X/2/right/IMG_1457.jpeg,yellow eraser,Zory,15
+893,right,2,2,yellow eraser+white eraser,X,yellow_white_X/2/right/IMG_1458.jpeg,white eraser,Zory,4
+894,right,2,2,yellow eraser+white eraser,X,yellow_white_X/2/right/IMG_1459.jpeg,white eraser,Zory,13
+895,front,3,2,yellow eraser+white eraser,X,yellow_white_X/3/front/IMG_1464.jpeg,yellow eraser,Zory,5
+896,front,3,2,yellow eraser+white eraser,X,yellow_white_X/3/front/IMG_1465.jpeg,yellow eraser,Zory,9
+897,front,3,2,yellow eraser+white eraser,X,yellow_white_X/3/front/IMG_1466.jpeg,white eraser,Zory,4
+898,front,3,2,yellow eraser+white eraser,X,yellow_white_X/3/front/IMG_1467.jpeg,white eraser,Zory,15
+899,left,3,2,yellow eraser+white eraser,X,yellow_white_X/3/left/IMG_1460.jpeg,yellow eraser,Zory,10
+900,left,3,2,yellow eraser+white eraser,X,yellow_white_X/3/left/IMG_1461.jpeg,yellow eraser,Zory,19
+901,left,3,2,yellow eraser+white eraser,X,yellow_white_X/3/left/IMG_1462.jpeg,white eraser,Zory,16
+902,left,3,2,yellow eraser+white eraser,X,yellow_white_X/3/left/IMG_1463.jpeg,white eraser,Zory,17
+903,right,3,2,yellow eraser+white eraser,X,yellow_white_X/3/right/IMG_1468.jpeg,yellow eraser,Zory,18
+904,right,3,2,yellow eraser+white eraser,X,yellow_white_X/3/right/IMG_1469.jpeg,yellow eraser,Zory,3
+905,right,3,2,yellow eraser+white eraser,X,yellow_white_X/3/right/IMG_1470.jpeg,white eraser,Zory,1
+906,right,3,2,yellow eraser+white eraser,X,yellow_white_X/3/right/IMG_1471.jpeg,white eraser,Zory,18

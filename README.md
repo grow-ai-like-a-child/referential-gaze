@@ -1,2 +1,2 @@
-# gaze
-The public reproducible analysis code used for the gaze project
+# Can Vision Language Models Infer Human Gaze Direction? A Controlled Study
+The public reproducible analysis code used for the project: Can Vision Language Models Infer Human Gaze Direction? A Controlled Study.
