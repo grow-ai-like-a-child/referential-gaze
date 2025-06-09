@@ -1,7 +1,7 @@
 # Can Vision Language Models Infer Human Gaze Direction? A Controlled Study
 The public reproducible analysis code used for the project: `Can Vision Language Models Infer Human Gaze Direction? A Controlled Study.`
 
-[Project Webpage](https://grow-ai-like-a-child.github.io/gaze/) • [Arxiv TODO]() • [Paper PDF](https://grow-ai-like-a-child.github.io/gaze/static/pdfs/paper.pdf) • [Stimuli](https://osf.io/kyaeu)
+[Project Webpage](https://grow-ai-like-a-child.github.io/gaze/) • [Arxiv](https://arxiv.org/abs/2506.05412) • [Preprint PDF](https://grow-ai-like-a-child.github.io/gaze/static/pdfs/paper.pdf) • [Stimuli](https://osf.io/kyaeu) • [GrowAI Team](https://growing-ai-like-a-child.github.io/)
 
 # File Structure
 - [Figure Reproduction] [plot.ipynb](./plot.ipynb) contains the code to reproduce most of the figures in the same order as in the paper, which uses metadata in the `model_info` folder.
