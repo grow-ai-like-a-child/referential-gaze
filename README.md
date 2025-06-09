@@ -18,5 +18,9 @@ If you find our work helpful for your research, please give us a star and cite a
   title={Can Vision Language Models Infer Human Gaze Direction? A Controlled Study},
   author={Zhang, Zory and Feng, Pinyuan and Wang, Bingyang and Zhao, Tianwei and Yu, Suyang and Gao, Qingying and Deng, Hokin and Ma, Ziqiao and Li, Yijiang and Luo, Dezhi},
   year={2025},
+  eprint={2506.05412},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2506.05412},
 }
 ```
