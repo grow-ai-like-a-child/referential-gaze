@@ -20,6 +20,14 @@ Large language models are used to assist in coding, but the authors take full re
 - [Stimuli Metadata] [stimuli_1763865486.csv](./stimuli_1763865486.csv) contains metadata for the stimuli used in the study. Entries with `list_id == -1` are attention checks not used for statistical analysis.
 - [All VLM and human responses] [result_1743457603_20250506_20250506F.csv](./result_1743457603_20250506_20250506F.csv) contains all the responses from the VLMs and human participants. TODO
 
+# Preparation
+```bash
+conda create --yes --name gaze python=3.14
+conda activate gaze
+python -m pip install tqdm ipython numpy matplotlib pandas ipywidgets ipykernel scipy seaborn
+conda install -c conda-forge r-irkernel jupyter r-lme4 r-readr r-marginaleffects r-ggplot2 r-dplyr r-parameters r-performance r-tidyr r-car r-ggeffects
+```
+
 # Statistical Notes
 To test interaction "Proximity times n_candidates":
 ```
