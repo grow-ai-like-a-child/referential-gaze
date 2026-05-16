@@ -1,8 +1,10 @@
-# Can Vision Language Models Infer Human Gaze Direction? A Controlled Study
-The public reproducible analysis code used for the project: `Can Vision Language Models Infer Human Gaze Direction? A Controlled Study.`
-Large language models are used to assist in coding, but the authors take full responsibility for all content.
+# Vision-Language Models Mistake Head Orientation for Gaze Direction: Nonverbal Conversation Cues
+Accepted by ACL 2026
 
-[Project Webpage](https://grow-ai-like-a-child.github.io/gaze/) • [Arxiv](https://arxiv.org/abs/2506.05412) • [Preprint PDF](https://grow-ai-like-a-child.github.io/gaze/static/pdfs/paper.pdf) • [Evaluation Stimulus Set](https://osf.io/kyaeu) • [GrowAI Team](https://growing-ai-like-a-child.github.io/)
+The public reproducible analysis code.
+Large language models are used to assist in coding, and the authors take full responsibility for all content.
+
+[Project Webpage](https://zoryzhang.github.io/gaze/) • [Arxiv](https://arxiv.org/abs/2506.05412) • [Evaluation Stimulus Set](https://huggingface.co/datasets/Zory/gaze-referent-stimuli) • [OSF pre-registration](https://osf.io/v8kdf)
 
 # File Structure
 - [Figure Reproduction] [plot.ipynb](./plot.ipynb) contains the code to reproduce most of the figures in the same order as in the paper, which uses metadata in the `model_info` folder.
@@ -10,15 +12,16 @@ Large language models are used to assist in coding, but the authors take full re
 - [Model Fitting and Selection] Fit separate mixed-effects models for each group.
     - [gemini.ipynb](./gemini.ipynb)
     - [glm.ipynb](./glm.ipynb)
-    - [gpt.ipynb](./gpt.ipynb)
+    - [gpt4o.ipynb](./gpt4o.ipynb)
+    - [gpt5.ipynb](./gpt5.ipynb)
     - [internlm.ipynb](./internlm.ipynb)
     - [qwen.ipynb](./qwen.ipynb)
     - [humans.ipynb](./humans.ipynb)
     - [moondream.ipynb](./moondream.ipynb)
     - [gazelle.ipynb](./gazelle.ipynb) (models include gazelle_dinov2_vitb14_no_bbox, gazelle_dinov2_vitb14, gazelle_dinov2_vitl14_no_bbox, and gazelle_dinov2_vitl14; "b" for base, "l" for large, "no_bbox" for without face bounding box input)
 - [Statistical Visualization] [aggregate.ipynb](./aggregate.ipynb) aggregates the results from the individual models for visualization of estimated marginal means (and trends).
-- [Stimuli Metadata] [stimuli_1763865486.csv](./stimuli_1763865486.csv) contains metadata for the stimuli used in the study. Entries with `list_id == -1` are attention checks not used for statistical analysis.
-- [All VLM and human responses] [result_1743457603_20250506_20250506F.csv](./result_1743457603_20250506_20250506F.csv) contains all the responses from the VLMs and human participants. TODO
+- [Stimuli Metadata] [stimuli_1766691418.csv](./stimuli_1766691418.csv) contains metadata for the stimuli used in the study. Entries with `list_id == -1` are attention checks not used for statistical analysis. [stimuli_1771518084.csv](./stimuli_1771518084.csv) are the ones used for the high-resolution experiment.
+- [All VLM and human responses] [result_1771518084_20251124F_20260220F_20251123_20251124.csv](./result_1771518084_20251124F_20260220F_20251123_20251124.csv) contains all the responses from the VLMs, GazeLLE, finetuned GazeLLE, moondream, and human participants.
 
 # Preparation
 ```bash
@@ -26,13 +29,6 @@ conda create --yes --name gaze python=3.14
 conda activate gaze
 python -m pip install tqdm ipython numpy matplotlib pandas ipywidgets ipykernel scipy seaborn
 conda install -c conda-forge r-irkernel jupyter r-lme4 r-readr r-marginaleffects r-ggplot2 r-dplyr r-parameters r-performance r-tidyr r-car r-ggeffects
-```
-
-# Statistical Notes
-To test interaction "Proximity times n_candidates":
-```
-avg_slopes(model, variables = "Proximity", by = "n_candidates")
-avg_slopes(model, variables = "Proximity", by = "n_candidates", hypothesis = ~ pairwise)
 ```
 
 # Conversion of VLM Outputs to Multiple Choice Answers
@@ -204,13 +200,12 @@ if __name__ == "__main__":
 # Citation
 If you find our work helpful for your research, please give us a star and cite as follows :)
 ```
-@article{vlmGaze2025,
-  title={Can Vision Language Models Infer Human Gaze Direction? A Controlled Study},
+@inproceedings{vlmGaze2026,
+  title={Vision-Language Models Mistake Head Orientation for Gaze Direction: Nonverbal Conversation Cues},
   author={Zhang, Zory and Feng, Pinyuan and Wang, Bingyang and Zhao, Tianwei and Yu, Suyang and Gao, Qingying and Deng, Hokin and Ma, Ziqiao and Li, Yijiang and Luo, Dezhi},
-  year={2025},
-  eprint={2506.05412},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  publisher={Association for Computational Linguistics},
+  year={2026},
   url={https://arxiv.org/abs/2506.05412},
 }
 ```
